@@ -1,0 +1,1065 @@
+# Generated on: 2026-03-22 14:43:35
+# by @kgkaku
+#EXTM3U
+#EXTINF:-1 tvg-id="us" tvg-name="Astro Cricket" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-cricket.webp",Astro Cricket
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=0c5417abad4c262b4c56f1c85172c44d651a0092858292b6f9bb67f4f610b7e3.1774190616.25479c91fab9c15889b4bf12e2d40d55.86e918e742499d8637d65d10fdf55de8.f799c25f74ad7f1981b38f91e680fa2e&signature=f52d3ca6c0fde56ce5cea630cf45114306927150864bdf24d90e1df9ba6d49c2
+#EXTINF:-1 tvg-id="us" tvg-name="Astro Football" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-football.webp",Astro Football
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-astro-football/playlist.m3u8?token=db89a3a7016224803847334adf4ba793906d7fb6d695870bfb0a392816c78500.1774190616.79c891ef7232540dca47e8865492d09c.eda0166666d0a99902440961f61b027e.86a7cbf9eb9e4c41144d20a3902eb2bb&signature=8d73e83fdcd1e6148a432de98b4635dc60544b0bbe4b0058f3e341b6c8eb17e4
+#EXTINF:-1 tvg-id="us" tvg-name="Astro Premier League" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-premier-league.webp",Astro Premier League
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-astro-premier-league/playlist.m3u8?token=6ae93f0f10751eba36d6907ce372be1f091938da8eabf12ac104b06287d4d788.1774190617.9eb8dac948033a51496e3856100defc8.98c4190b36a906e8d22b1b1be555a79d.55b7bb42c0732961ed1b518fa5622fa2&signature=59e8ba80e334cf436d8cb8bc1270b72dc25630022a0931afefcd4305b494684a
+#EXTINF:-1 tvg-id="us" tvg-name="Astro Premier League 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-premier-league-2.webp",Astro Premier League 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-astro-premier-league-2/playlist.m3u8?token=37b49f03ffb9ba5423e70344c28a0ba26b9f65a031c0a1ae8d0cc74bbb1950d1.1774190618.9b1c43c9f7ff87c1017ea4cc25075067.c56bc029b61483f49e19fd3a6dd518b6.37dd3f9dffe12c97cce5faf3b3f711df&signature=7d13815ee9149385401666660c30ff33247ef50545d79e9622d4da998f68d155
+#EXTINF:-1 tvg-id="us" tvg-name="beIN SPORTS" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports.webp",beIN SPORTS
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=cd42ef0d6154996e5cde0669de11374b7da9fed7b7a5782d0288e31545ab80e3.1774190618.bffaf3fa9662ae3da2757dcd1a619e57.8ddc45e97118cc31fa17ff20045aa965.669d3f0ffdd3560e7b74326717f3b27e&signature=dc38960f641b8d99932e0aff9a29253893dba20e9de0aadec0381da513ba83b6
+#EXTINF:-1 tvg-id="us" tvg-name="beIN SPORTS 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",beIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=185697e92117c050c86b28fe5527a118e6199364554e79b51c27fedd4642de3c.1774190618.442f4f3c1d9aa9386f752bd86fdb89a8.5d1cea472c546456f0b41b45153a557a.42dfeaf14692e689f3d8b9a396b66d29&signature=ed492daf9bd51451027d1b49000bead54f11597905f8b08f8a07ba1418209e83
+#EXTINF:-1 tvg-id="us" tvg-name="beIN SPORTS 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg",beIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-bein-sports-2/playlist.m3u8?token=460ab56424aadff9b7274f7c707cbe5736c4089e3ce0a96556e931c3ed35c173.1774190619.6a7a9d86a5d703b23ec02b3697e7b3db.4e85496f66e5718688767c45d679d5b8.b9aac3b696fe47ae2f4593b880e725af&signature=88557c3c6c9904b62099a3db422711abcb25a2933301caf850a64baedef1c160
+#EXTINF:-1 tvg-id="us" tvg-name="beIN SPORTS 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-3.svg",beIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-bein-sports-3/playlist.m3u8?token=30540abaf688ad54c5329110e76e005d6e16ca371e26ef4bb494fff4622fe2b4.1774190619.9a9020380974b390744d22118606a65d.d54af772910ed053b53b47733bb0e299.7046e764150538b039b0e7064a40a1ac&signature=3f318fdcc970e098416b87b8395d79692516698662ac115653bcfcb151977ba4
+#EXTINF:-1 tvg-id="us" tvg-name="beIN SPORTS MENA 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-1.svg",beIN SPORTS MENA 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=d5366c3188b2a8154581bfc71005924d6fa6fc35de63c050edead99c0367ca96.1774190619.d628e13c49073ee556bb1e8959ae290b.6780a1849796e689db9364c728ef45ce.44e89e974ae16180b38c6b894a05fbd7&signature=23278ebe7c2a288117fc72af1c9183f350199947419fc18c53c58466e86a9632
+#EXTINF:-1 tvg-id="us" tvg-name="beIN SPORTS MENA 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/bein-sports-2.svg",beIN SPORTS MENA 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=bfa631bd28056f30cf1603875c84a0d61eb4a913d1c62848544aeceebdd129c1.1774190620.087d4815c4b6109e03f5da589c8a2802.194e5bbe671ad40d4face714a95ccd8b.0287a7b09b2d8ff9c2900d32720bd51e&signature=60614d811347186cd7205d7fdb4b9ea1d9e745aa581fe093e806e967a03df95c
+#EXTINF:-1 tvg-id="us" tvg-name="CBS Sports Golazo" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs-sports-golazo.webp",CBS Sports Golazo
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-cbs-sports-golazo/playlist.m3u8?token=804c79b8ba158b9e73b5a5e1c82b2031fa3b14831d62b72bbad83eb4d95b90ab.1774190621.e3366311291e5925bd0ee5f444d6e52d.222c28b389f8dfe38e3743abab63b25e.240b3c57ae89c02f8bc61032fd42beb3&signature=1fb3f8801206d2e0e18e8e028d4a550cf244ca20c0c8c13e0833df61bc90feeb
+#EXTINF:-1 tvg-id="us" tvg-name="CBS Sports Network" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/cbs-sports-network.svg",CBS Sports Network
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=5c58cfd77ab5ac28b7b1275e626f992e6105e105a8ff4af921e846f627409a6a.1774190621.d5e9b53f456c211d1768858b668c307d.05bed97485eed5921f4daa7b38815d48.da1a256322a6a6d472377962b746c91d&signature=dfb257ca6a5c4b5f80063babe064c617f085350c4822fe4c814667134fd01ad7
+#EXTINF:-1 tvg-id="us" tvg-name="ESPN" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn.svg",ESPN
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-espn/playlist.m3u8?token=28221e285027cfecf2246589ca7c86661fd155bc4794cef7c5f800bfbf9fd95f.1774190622.9490b29db5d9162e886ac5a67f5e1442.930976ce647e1185da17f9b89ce3a569.5a3d835a178ca5e315269ade830c1405&signature=c828d35b9439e6004b83e508f72fd61d651c2b5cbfe6470b28a158d9a960267a
+#EXTINF:-1 tvg-id="us" tvg-name="ESPN 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-2.svg",ESPN 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-espn-2/playlist.m3u8?token=d1a6f04728d940679cf14728d88e0ad083c608e54e08f42e82e86893536042dd.1774190622.f6a6a86037fc523ea2f05d035a98db82.7608d11091a51222843c9ff521641591.4285e0fcafb7c52ed8ab3d1c78e52e14&signature=dbfc2c8c3e5e4395939f30a5dfb000cb04961a93e34a5202f7a2b3711025f3a6
+#EXTINF:-1 tvg-id="us" tvg-name="ESPN Deportes" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-deportes.png",ESPN Deportes
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=db666d01d298ed035ecd529c0dde40c6f57d5345bea4153558e6a51dfe8a46a8.1774190622.f28f7a43729005a7815fc5cecd763cbe.b9cbe0c6cf6f0967a38a4aae2e93165e.634e4d56aa8f8434f2d7e9d50b30e381&signature=eaf35e23d0d01994b4561c87f4eec9410fb270cd2d38672c4b388804e0fe0c62
+#EXTINF:-1 tvg-id="us" tvg-name="ESPN News" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-news.svg",ESPN News
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-espn-news/playlist.m3u8?token=1c6733071feb1d2168f24caac4acc27ec56835bec6cb8bba371c5a59e8493e50.1774190623.db094b18f7c07bac2a9bd5739e79688e.7e579ac4cb4a02aa91ebc3abdb2c4a2a.84209d0a57b709f93b630a3c822279a9&signature=375ffdcebbb9c5f9fa4218b5a029ce730e707ec0de7a42118bbea28062bd4820
+#EXTINF:-1 tvg-id="us" tvg-name="ESPN U" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/espn-u.svg",ESPN U
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-espn-u/playlist.m3u8?token=3db8eb4e1a378c2ef62fd7bb2ddbb93575e44579c8fd88c09e116a6b3870d5af.1774190623.71886b3a14b166d66226ce4fe266f995.26ccbdf69625b572f75323ef8c88f9dc.0d33ddda283dc35a11620d31ffa711b5&signature=6b002b209433fc656197b58645e28e23a33140a8e364ba5972cdc1d45c2a00a0
+#EXTINF:-1 tvg-id="us" tvg-name="FOX Sports 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-1.svg",FOX Sports 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-fox-sports-1/playlist.m3u8?token=eb8904344adfa6c053689787e936af09fb2beab22f550a52cbef8227558b014b.1774190623.2268b7cf3981751ecd7c96f4b5100dd8.ff21b247c28cadec83e23952601a12fa.113a8a4eebe547eeef2c1cc7e6511259&signature=91a788bfccea128de57841041ea8e5e4963af4f8f656fe8bae45328b91b5af06
+#EXTINF:-1 tvg-id="us" tvg-name="FOX Sports 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/fox-sport-2.svg",FOX Sports 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=012444c45b0079d6bd01f0d31e22c312b62b60b5c85c488aa6aa7333dfadb8ea.1774190623.4853d5d0ebc59e5d2678d000f1d8d9ed.2604c7bf5267b07d5677cd1686cf02c4.5751be457770f5a589157d5f1f842c81&signature=9c96cda828e859fd0bcaae3c34a67202e348325bdbd7ef98addeb189a13aae48
+#EXTINF:-1 tvg-id="us" tvg-name="Willow Cricket" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/willow-cricket-1.svg",Willow Cricket
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=b6ba59b377defe8e31ca5e0f89b47e8175c61b7416dda8a30144b0685dd09501.1774190624.cd1c55ddb6cc185eb970597bba329655.26fba5a66ad8592bb91b471fdd05de29.3fcf73dbd56c424e557f1db520885588&signature=5797e4648b61728657569ce9d33676ba3593726f9fd8c5fbc4db1341a718933b
+#EXTINF:-1 tvg-id="us" tvg-name="WWE" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/wwe.svg",WWE
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/us-wwe/playlist.m3u8?token=10db6d632114c5062c074fed6c0c59b588046bf967ccddc15844e5f8199b09ca.1774190624.8bc06eaae63de8288a7b04ad57f82ae1.d382085d4751f40b2acaf97429030c6a.66923244414f40a7551e8d116f8631d4&signature=40e6df98057531f7a36c99992b221560d27abc44a6affe81a7d23d8d95a3031f
+#EXTINF:-1 tvg-id="gb" tvg-name="DAZN 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/dazn-1.png",DAZN 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-dazn-1/playlist.m3u8?token=0514bc07bbd31ba9a30e8c9b42f8729fccdc63c92055d459a6ed4e922a521138.1774190624.dd921b922c983db62d1046554e3defe3.1438e37b28b518a7b59b9cbb1789375d.b7c11b79eb224b2151acd3fcc4c7e1f4&signature=0533b1b34859f38cc3c219a0a5043aeb883f8329b9350bfd7f97c2a362aaf09a
+#EXTINF:-1 tvg-id="gb" tvg-name="Hub Premier 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-1.png",Hub Premier 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=a05c3fb92fc0f1bdac97afcb2b1a38ef148f16aa6420b0f9337a9ed86e5d7928.1774190625.8bd7fc34cc58babb815719def4c33299.b606bd35c05d30aa71b037bc791608c0.0ae59505c1bf74ae9237f6a4da3fca15&signature=f0d69623f75975c4ca9a4c0e24b027b17b724d3b17e414808fde9269a71f3cac
+#EXTINF:-1 tvg-id="gb" tvg-name="Hub Premier 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-2.png",Hub Premier 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-hub-premier-2/playlist.m3u8?token=e5690e6a8f2a77797ffe69f393a8bf267af09d25001566a5adf79746bd3d0ac4.1774190625.66dc34c5a7689cee8c2f7fd374f97e65.ea36831bf334a8dd893458d8148231e1.9304b10638fc537e807245c060a472bb&signature=31af266b0da4288df3a10166c6ecfe264972c8d25e072224bca9964541350101
+#EXTINF:-1 tvg-id="gb" tvg-name="Hub Premier 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-3.png",Hub Premier 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-hub-premier-3/playlist.m3u8?token=7c4238e8f50f6c2b4d61174a3fc3e9e8888c77941170b3ee7275c01fcf887859.1774190625.4878586a5ce3476f80b36244894ec3f0.2bd38ae473092019981acf01e665ae17.9c1f104f2a6b2006efaf37b877f9df8d&signature=fce7bc59e916b9a27e9968e808e874a06ce60e93c4f8ff90c2833dda295d6729
+#EXTINF:-1 tvg-id="gb" tvg-name="Hub Premier 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-4.png",Hub Premier 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-hub-premier-4/playlist.m3u8?token=aa07124648fc4456f85a844320e50c7cc7d3a7086068ebd76bd21069dfcb4066.1774190626.3682b9857646f29c5f59c61d1f78c4dd.7d5384055109356e3a04c04566cd393b.fa5c9f094a67b7ecffcc0ef6942fd921&signature=9ddd3f0a21c32a9791f4d2b05952c6d9d47c32272e2f76291a35302467645e05
+#EXTINF:-1 tvg-id="gb" tvg-name="Hub Premier 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-5.png",Hub Premier 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=303c6c9857a4a1f340db9545e7ed30fd86f6ec03c79dc130de39d58ba5f096d4.1774190626.804872ea3aabcefd24d6e9db010ada7b.fb70a59f6f1100e505c25ff8f08b3555.adb6d1a66ba0edbd70d07400e553805c&signature=95cf75d6f8bdd685763e9d8302dcc28ce99c6cfffc7cfeee4dc3d027809bdec3
+#EXTINF:-1 tvg-id="gb" tvg-name="Hub Premier 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/hub-premier-6.png",Hub Premier 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-hub-premier-6/playlist.m3u8?token=64ad264a4fd5539835e6c5fdb00de6578e8517ea9dbda65d7771833e15309177.1774190626.fabf24f9d44dfed9e1a6f82af5bb2f21.fc0d10681ae4f80d0987e894f669aeaa.27ed3c1c86c3b590f73aecfa30b39989&signature=f50ed21e573b9d80bff547c5d7a65e074cc6411393f3378d62b04c2a9471782c
+#EXTINF:-1 tvg-id="gb" tvg-name="LaLiga TV" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/la-liga-tv.svg",LaLiga TV
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-laliga-tv/playlist.m3u8?token=6b4f421c13624b1f00c64e9b5c557c440debc69be1924cb6a40400c27321e28d.1774190627.4a078bff2202b5b4a6df5c5700e55371.34e31f173fd09056a756127af9e8c709.3c9c39138978142edaa22061657d17e3&signature=c3a87f09f1c600bf8c238fbd4483b1f1db48dca8f158c89dbb3950dc44ad8ec5
+#EXTINF:-1 tvg-id="gb" tvg-name="Premier Sports 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.svg",Premier Sports 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=7a08e1d5ab9639770241e2e81501d937e600e59a450aa51a43b451afa1a4b25d.1774190627.d936cb2e0b55da2ebf118a343f81b402.1e17c9d6c77f50490fa8cf08df170fd9.a4ac3d4a44671a1a7be3862c627768bc&signature=665b2e036c6de538237e5286a5078b8e1b24079ac6be2d00787f9bbb950f350f
+#EXTINF:-1 tvg-id="gb" tvg-name="Premier Sports 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.svg",Premier Sports 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=b6f05e3b5e8ffcd863080a7bfd2b53c65ea80fc72130036c32c92ba82d0853ce.1774190627.a04c53c529dfcc139232a589da0fcca7.bdf8e8ea8f047817024abb77c82fe470.a3d8164b0bf18288ebde14e209abbf5a&signature=529a71b999ae6461305ebefabfa2eb5f9dd262a2da4ed2107b8425a00c56bf0f
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports Action" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-action.svg",Sky Sports Action
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-action/playlist.m3u8?token=c8b68fb309ab48ed39a23e080cf0122979cfffe2fe47bf5f9b0d2cafd04bfab6.1774190628.3a5f2b66d6ed3ee35f7c796623116eb6.0e4e3c1c7087e6b52ddb8f61ca08f277.f6c5e68f6be691fcca480510e9fa0673&signature=b6f0629e9e80f4e2f706cb7ef1e41c215a1c3a2480b551431fc6fa3bdf85ad12
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports Arena" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-arena.svg",Sky Sports Arena
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=44eec9e009e5233e4be2f1d3a4abd4c8bb42a86106fc09560b29732cc42480b3.1774190628.55266e85669f363c0539945f08540830.3137ee6685ca2ce37738bd81135f7377.4d573e2b466463e5e38e57f5d5f057df&signature=2c0134cc9b5ef69d44b85a66437501a2ae6d2e3e0e193030434d3444285cd8ed
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports Cricket" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-cricket.svg",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=47fa4d38767f98ec3b70a33b74962347616c224be0139a940a885ae8d35bb49d.1774190628.002ec0204334ee0cdd284f4d0ca76585.b2780c1988499efc0ef0abb9118d8b74.4866aeaf96866c8b1e7d5f2b28c2775b&signature=9a9d2aad445e0d17328c1123da2a67ef7f7b6353aa5bf80802805aaaa4929d08
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports F1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-f1.svg",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-f1/playlist.m3u8?token=1360a3ba7d53691b5c048effae4a494ff57ebc4dbfc2f1b2e37a325064265451.1774190628.00358d5b7d76910de0bb17f6d4c962bd.771b888caa4267a18aee73262806f898.65cadab64e73b1511f838ba29056c2e5&signature=c9b13c6d02fb50d355821119eb2008c42b1e3b567ce348710259cf560521cafd
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports Football" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-football.svg",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-football/playlist.m3u8?token=f364e2f903ba30181091e6634475edd44b55118c82e633d0b6aed0d6f112d3b8.1774190629.173acf966a791b73ca2103cc1b43a151.ff1a41d8b4c11e291bbbb5e32df7f9df.1886246de05d6243b2a78a24d836c8a8&signature=a30fd5660f6d26a16f77fcdd30d7eec2dd07c03412b346e8e058656abd4b52b9
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports Golf" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-golf.svg",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-golf/playlist.m3u8?token=5daa1a0d04e9388a90700371577f8c2678a35df479614bd029dd4dbd37a7b0a0.1774190629.15a7e4d4078684ebe6d1d47a206ca680.3fa951e2f76b45f5088d9a35df3b1440.c3acffcd491ecd9f51b37ab6fc0f46d6&signature=0dd3be7de4fdc1ea51c00b89f0438648815ccf6cf2eac3f3d245c44c373f6611
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports Main Event" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-main-event.svg",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=d9b91d4348f3e004a521b2dc9399efc6ca28797ccb83046c75e005b447be81f7.1774190629.311efb5d9baf09590d89f5466020544b.e9bb6b395d45dec1f1147fc4359ed146.e5a151409a2e5c7fc0edc925a1079143&signature=2d23c3280f00bf3374bfbaed5d9ecfcc34bc6c6994dde9ff5a95bb313b3f1fb6
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports Mix" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-mix.svg",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=d9f2e3697d92b5837e0bb6f176c9ddb99d2f59f8cc06eab94853d731285f55aa.1774190630.f4e68f46c804e2991a98eafff01b3d76.babb484dbcf2df402871ae98b405c343.b47c973431f260eef87fd2905209d5e5&signature=23129c1b7df98827c444239e59be5ebaf72fa62f92430dcaeac0494268ee2e1d
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports Premier League" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-premier-league.webp",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-premier-league/playlist.m3u8?token=55f3d77ab539d5b79faa83b523fefd3c08d66eaf020cb6cc3a2c5ffd7331f50a.1774190630.e2a7126d71eb8eab2a81531cfce184e2.2b016e983aca63e5a968a4b8c0ef1dab.4dddea6f1364bda2974f5402effd1838&signature=d440f04f32da4e9cb80148468bbf92c8228e3a44d2303c1a7e5c4a1157a46dfd
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports Racing" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-racing.svg",Sky Sports Racing
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-racing/playlist.m3u8?token=b61140259dbfd4b8c88b07272fbb29020f1482df993aad10114bd7f196c1a0d3.1774190630.bc4fd616d182ce44e8fae84ee016cec4.a852199bb8cd275c007d18b926f719e0.8181391d115f7ccbd60fcdcb4e9567b5&signature=c20d3f480dfd324aa17e0ceba4a49b42b31b51a3723d090f63bf2b88bab705fa
+#EXTINF:-1 tvg-id="gb" tvg-name="Sky Sports Tennis" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/sky-sport-tennis.svg",Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-sky-sports-tennis/playlist.m3u8?token=9900617eb28d8d73981d5005cfcf6ca1164a430f68e36f41962ecb8cc78bd71c.1774190631.3d181393f5fd52c40ab3fed4f91b4aa6.15d3aef0da862429f7300589cf5190d7.aeb167e08714edead3743e0d5d505249&signature=5534aa4d3dd21373288f1021f74b4ebd751d75f3fee73b1a3249a03e7520a296
+#EXTINF:-1 tvg-id="gb" tvg-name="TNT Sports 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-1.png",TNT Sports 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-1/playlist.m3u8?token=db9ac20ef3aa2fdfd04737a8ad0041a5911f55d2b334060c1b4fd20496b04166.1774190631.b1e80d8527721e0544b97aa49ed49f74.0ce1ee8e80a73b5d76feb11dc0deaabe.7e45beb31c1b2fd63279a61275151aaa&signature=9af739dad2a2d84bc09c06218ae15a5b6ef4787db592e065766b53381020ba96
+#EXTINF:-1 tvg-id="gb" tvg-name="TNT Sports 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-2.png",TNT Sports 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=834adfaa27ae9fe6394044eb181079dab0e98cbb6e128e1ced86b200e56de82d.1774190631.1af4d19530769d2cb1e4747d26306a58.311689fc6e594c0e968bb7f1cba28289.2dac2372643190a20925c8e9a3f69ae0&signature=f7f3c36427bc0b706390535a9b013960d5f2cd42468df943efd0ca5b25917135
+#EXTINF:-1 tvg-id="gb" tvg-name="TNT Sports 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-3.png",TNT Sports 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-3/playlist.m3u8?token=4019cbc9caf6ab735ddb880cc2d34533d4ab337727ece9f11738c41a3140fcd1.1774190632.786c8ae7e2087c650f1023d4fca8d29a.358490bff2774c3e6d0e529052acf87f.d2614298f0d6bc0588c5c404c022e354&signature=0e110fdbf7b41b35cc46372f678ac2ed02dc38126eba24304e3d862337c4fece
+#EXTINF:-1 tvg-id="gb" tvg-name="TNT Sports 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-4.png",TNT Sports 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-4/playlist.m3u8?token=aadee950ddec0863ef48b27fc02cc56c5e10d8a7dfd2911253d1a1f6e2731e2f.1774190632.8c273e2dc88616a995cdf81a97c2d9d9.5f66bbcd4773284df3a227c782c3585c.2e86ddf3cd6f7d1a0a781219b47cd6bc&signature=51df66bcefa7fe84205e081e4ddbb0f618d5d4a8b18fe6e757b5d8336b753693
+#EXTINF:-1 tvg-id="gb" tvg-name="TNT Sports 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-5.png",TNT Sports 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-5/playlist.m3u8?token=2bf708d06feaad73e6e7eec6cf63ee50643921d095dafee3e3262de8bbb439fa.1774190632.5b952f52a84a2188c201c126b7c0e4fa.3e2c9088fca953bcdde6f8bae4d1b419.9dfd6a172501c94faced8026939cc32a&signature=b84873a310f12ced2d3909f29c745c320108535a7b7f593e3cbaa7acc51878e6
+#EXTINF:-1 tvg-id="gb" tvg-name="TNT Sports 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-6.png",TNT Sports 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-6/playlist.m3u8?token=13f1bf48459e876f3fc73f24df5b99d281b3dd686017b456529057f84cd45554.1774190633.23729c1e70c224cacb481c3ed7b66e69.7bfb4496c3efa4f80f3a6ff8b4cfb66b.3e77c57907d0ec8da5e7e8a0978db238&signature=efa6890de05dd500138a217fbcf70a44af45a1e41df0a6edd71936fb620e3b6a
+#EXTINF:-1 tvg-id="gb" tvg-name="TNT Sports 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png",TNT Sports 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=ff89d0a5e6746498eb16c7b42e9d64b1d97d4554e42eeb2ec7676004a981f1b6.1774190633.b9e8842f69c1e10926b9af38732e6e08.1267e2c1c5120db4f9ad0d0a1932f3df.dfd7ef8d962d60cef7565638c8c638a5&signature=cb887ef5491d09613a6d22db03b5e66bec2bd6ce0e393c7a8aacb5356049eeae
+#EXTINF:-1 tvg-id="gb" tvg-name="TNT Sports 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-8.png",TNT Sports 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-8/playlist.m3u8?token=0485c86cd6fce598ec04d88064217bb621e011afa0afd9a2cd5b6a660eb9ee7e.1774190633.05a43cc6345b1aba56a092d1eab7c08d.d7135698c9c8651f96eeab8e4d837a67.4eb60d817bce00f55d90f9d4811b99ec&signature=52101d779aed4b5a78108359f11f9b9622842d030bbfe6089ca77fc37abbdcaf
+#EXTINF:-1 tvg-id="gb" tvg-name="TNT Sports 9" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-9.png",TNT Sports 9
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=af1f2f789b6f7f54dc525878dd251fd819c0991b5754d894153458fd550f06b4.1774190634.90f3d2e6d69b21e63a50afc9db6249aa.fdd43bfeedca0eeca1a1dc839edce9eb.66b96915d2e35e7426a0cc857aa268ba&signature=67efce97d84210e2042371c9e669b621887143efdf571138e20fb7c05a4ba0cb
+#EXTINF:-1 tvg-id="gb" tvg-name="TNT Sports 10" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-10.png",TNT Sports 10
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-10/playlist.m3u8?token=dd53981d3fef06d496e2d57f2ef04f2b5e5efd2e702905303b4976fa24dfa0a0.1774190634.91a5da3c331c6280e3242120b3e59eb4.9a686fc21f8c6e188dc5816484fee07b.a29d2fb1139de3660f50ee739cc21126&signature=cdc3b200293aef352105cb5d8ae302ba42d28851d574603ad7740825988ed560
+#EXTINF:-1 tvg-id="gb" tvg-name="Viaplay Sports 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png",Viaplay Sports 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=ca358032305faa4153781682ff24c2d2f1d12d980d2a93e8d90b12df75953f49.1774190634.29cf5b651a3f0b2feca293b8d97f26eb.d3138bbaa358b60d7db68d01cafbcd33.09963be84156df7eef68731c81d41be0&signature=0ed4bdf706f5de3aa032830d815c0d31bcb5a3bb36b12e7bd5dabd1b6f583a4e
+#EXTINF:-1 tvg-id="gb" tvg-name="Viaplay Sports 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.png",Viaplay Sports 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=87b42a68c0cea9efc6e96c837bd53b7c6f66216de6c0b862970f9f483a2c5daa.1774190635.8756bcaa143d560677a43597b988c336.bc6af3a75a4dab26004bad28e7a8618d.b31f5b7dc80181a9de2428195ee647fa&signature=63ee9b2528acc12511de2d0a918ff56404b3749563a8f681d956ea39adf7f939
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-2/playlist.m3u8?token=4c3ca2e5973ed9c77b89830a699a43b1272bf974e631bb28874a7f238512e63a.1774190635.eacde92caa8160715c4c9c8839abdee3.7247ded83813c696449b5183dc4e7bb6.1dd9b26f84c0f18a0fbf4ca032d39ebf&signature=629ab25f5802bd324fbea8068977466bd138ed805ad2ac835a132fe9dd494bc8
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-3/playlist.m3u8?token=b0498b2af53ed04c14a48e95188486ca91d3453cda57dd9784cd2ab970cb94cc.1774190635.8e679951cfb4124f89287f444b9b7188.6295117bc1ff8e8432b1aabc276203a2.3501b1538a5e39ede2ab8c3c190f9606&signature=10db00181a2bcce4c521deafd8808c6df041aab871760898f1d014ea45d4c095
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-4/playlist.m3u8?token=f9d3d1ab79110ad8ac780861f8c2b7d26ed5e4e57dd1ca9a764fa81c33172ea3.1774190636.b3b2b94b62aefe4c4a48373c47a01776.3db9d56600128175eccf1623fbaec07c.3ef7ab9a35401d518d151e284c36df25&signature=b507c42223e79bf96eea1eaf8bbfa95cc5492e27fb14ac8f56cdcb899e46b9b6
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-5/playlist.m3u8?token=26418faee88d3f341bf29c6b794b85bb30a73d623a0ec508be5e297056905000.1774190636.dc02e4c607bb042b2e706859196c7391.e3273481ca6a8e7bbfad9b455b9b6957.09de3fa62dd59a4926ec142b1f4168bc&signature=f8bd84151f3f5cd2acfb0e9ef5c6979b1df5ad36bba96b0318d040c4af9b43d3
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-6/playlist.m3u8?token=230d52994b8adf5b84007c2cc48380d7d662354aa0da1a78091d6c667664d606.1774190636.cda48ecc2d8a70accb2ad8aacb45a2ce.b5b8e129d4026a5f1efec2554a1f6990.e3b1c6831a2a94d089ef80ffc0a86d84&signature=7af14b9c5b3f26699c0cb127937d9901e1978dac31bb1ef55d571a70c893b0e2
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-7/playlist.m3u8?token=4d5956782e8fb95c88ca48f9dcabaea7803de237c738fa3041e2a80343bde611.1774190636.ec739fd8d187ea4ba5557a31f5161b7c.34c4accd5ee70e30c3413af1f9c1f40d.d071f3d68b4320fdab39ca6665543b69&signature=0c27de3a30e2e89084c75dca2d9a2678b371b406a28e1dbbac7b21f049b272cc
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-8/playlist.m3u8?token=c68581c65efd9bf008ae666075bce3dcc583e0938612ce807f5e38eb522de031.1774190637.59cea89047886d9fa2eb6ecb9fd8dc03.8c421a2e3615c08eb69cec44bd8e019a.c1604f527e43900ea3e3103484777ac2&signature=5cc997435a3c9f0f417f5f6e75959018c556c9e3bd85030cf561e2086b65d554
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 9" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 9
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-9/playlist.m3u8?token=02d572acd41a32e3673186ce7bde637efc743792751d933cb78c7d69725d6480.1774190637.d7daa10bfbf76a8554e8d28f53556001.13555bd442b1b455dbfaa58539b25820.3838c173e9563b30f3b9c9e16cbbf26c&signature=826bd20d98668a032105c5c4a94aaef5ce03a706d11c37388f4f65e886fe4c26
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 10" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 10
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-10/playlist.m3u8?token=30d2b47f4123db6f1f0c65742ad3a33a5707ca4087a0b0fb20f63c825454086f.1774190637.04fc43ccd7741338d9aa516f03a0b4b6.90344816c025ff0ccfae83fdc51fab70.7eb713ee134710f6ebe933c480d69999&signature=5fe476b294b1c658f9b7b4dc52cb39f0a7038513f2de93c2b0a97870b22a7bdf
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 11" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 11
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-11/playlist.m3u8?token=77348130cd5262c314c7c1edd52021dab31f5a3950845b15a84837c9a2465bcb.1774190638.49d892410b21de24d45fb40d00133800.e75778e9045b11459b25e7ed0c4e5395.0026b9ca08faf533eadc6eb853f80210&signature=83679f2e2b1ccceaaab0fb9917461d90aa5de778fc0f5b9a4d1049edf3a06d1f
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 12" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 12
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-12/playlist.m3u8?token=539676fb25f8d2f386c28833977d647265e3dd425deb3dd4404d3532e7f31c9d.1774190638.27b96028bfe3b2149bd1ca0f0c840e65.b1d4172edc0259a226831df8826204e8.094b57d51bc001f7edcb048facea7b5c&signature=ef9310549c95c77e43960e72f7cbecb78919898fa2d0b68b94b0525dda7b0f66
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 13" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 13
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-13/playlist.m3u8?token=769666ee631e678d6e91c0a095e59c1a2c057398fb40f8e2017708d877fc7ab9.1774190638.a1325894951abcd257a326f0a3485b05.1b13e8e62f1daade2ac2c7044c6e9be5.cff48b9106b356db5d224c8aa030ad8e&signature=09a9e31d45d3483b2c73d8dc4fc617a24142ff806880960cbb6501cc3ce24214
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 14" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 14
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-14/playlist.m3u8?token=607b626f0166f1a41d59e8fc7adfcb3adb27cf28eac55ca018ac18f8a9bf813b.1774190639.12821cb5cb6e5990faf0a650719ce653.3b19a2ea8f11327b0270b40df051e42a.97702e3b4806943f0a511c76cfeddadf&signature=3de52b8179f8751b5dfcd7d3c6c9bd4b13cccc6825d2d2758bba0bef0b8052d3
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 16" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 16
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-16/playlist.m3u8?token=2958ed008bd3f7f9bd876bf8af9b74d9faef8743b662f87c9e93842bb8f97ff7.1774190639.7c7e6b562aeaa5af0c598427f6380fa7.412cdd5645791cd0f5f72d964d51beb9.d3e04be648a1c2808939d7b4880aac8e&signature=2e007a143ebc24b0e0e4d6e1a64abce64d1282e822c65a09a13a5fe85b4a6af3
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 17" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 17
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-17/playlist.m3u8?token=1d41e65c55719b4a8b9447dd99b7759429f0fc103058e63014b828d540d30a54.1774190639.7ef67ff5798db5f0b3462b572f4a5bf6.f4a8afbd4d4656cc9002552b50e16192.945a6e2a796041440d056a09220c1a17&signature=899f114e85c594e3c47aa47da3fede54d6d3eb667b3b65f16c04c30649e701b8
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 18" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 18
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-18/playlist.m3u8?token=44eb341484e7ff4bb68186102bedda9fd001da9c710c25ac769cc89a4a2fbc0a.1774190640.124307b38aca890048bc4a2ff0615705.c7c76bcaf36f72e3b7878aa2ca2fcb36.3a6c63761236b1c16a7aae21fc43e82b&signature=9402d8fbf927c16a8cc1ab56f4e655c5bdb38bf4ad40e3d67fd92fad0be49549
+#EXTINF:-1 tvg-id="au" tvg-name="Stan Sport 19" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/australia/stan-sport.png",Stan Sport 19
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/au-stan-sport-19/playlist.m3u8?token=a2ac73b6820928b1805cc8e74fdfde304b4d7ee9e0568b024944487df8fd3b94.1774190640.743630ac40968e4b526531fda7073faf.32d4b76cde07ec2ac2b867250dde617a.48b8bbe8bc7e8d46e513c0108760632f&signature=ffa646b371b07718d67f7b45572e4533a48563d680ebf9d471f9f9a156408352
+#EXTINF:-1 tvg-id="nz" tvg-name="Sky Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.png",Sky Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=8cbbeb9bd8e9b958e6f0c1223d2946fc4c2e8e2e3fc43d01260010d385976682.1774190640.66192a394e8cbe2bee3eab5517065830.d1bcd1eaf6b3ddb66e54b218f56d36ab.55673244964aa3c48eb6a311f45452c6&signature=733b5d02f3bb5ccd609ac1b0e4c28a011782e86939b645c7af9564772e0042df
+#EXTINF:-1 tvg-id="nz" tvg-name="Sky Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.png",Sky Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=e18165665a3f9b9242cad87c58f2cb008b86e2bf8f7100abab222e895bef8706.1774190640.1508c99b0bb9b552b5b82d6b2556e261.810f86346022a3dbf1176aa55db042cd.c357133d5deefaa95c35df3b8143b409&signature=92b16ef142d37eadbac6941bbca76542d58c1a2411f4e510ba496df2ccd5cfa7
+#EXTINF:-1 tvg-id="nz" tvg-name="Sky Sport 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.png",Sky Sport 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=374744e688a78ecc5d45f6573115525a560d7e98e107fd460d873be7188845f6.1774190641.50f316526b7d9bf38a5a46460f92722f.cc3b5ecd3a470f04b28d5a93efa68613.a383a5eb58bb9d9b3e6ccef14807910a&signature=2d26cf24fc8b01205dd252264988321f84fec2b5f190bc5871e72fc5e4a24432
+#EXTINF:-1 tvg-id="nz" tvg-name="Sky Sport 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.png",Sky Sport 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=6835b94cf082aa9d2ec9a8d338e66e0e51e7b3fd2987e094778bd84d0716927f.1774190641.ea5d0f1e3f682aec2a2af90f77cac5ed.1b311faf608dab7520446e7d45954efd.cf8cbb8b4772f0af33eb2224601f1f7e&signature=8afaea943d57174ff50205d8a25ae31e9bbc4ee365451a8c0fdd914ab73684f4
+#EXTINF:-1 tvg-id="nz" tvg-name="Sky Sport 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-5.png",Sky Sport 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=dde761fd8c8e642d7cadd1ab99fb9ff851c6fc1343ea6b6c6ea310e8d94090a6.1774190641.59a6e8164ddeb9c2413d2745b42f9156.1fdd39bd8ce1d99cfe35e5bd04634207.da35fb19e1775771c28be834d725cf5a&signature=03b16bceb3cd0c649483c2178e53ee12d7159371ccd36b9ab99d7ba717b806ce
+#EXTINF:-1 tvg-id="nz" tvg-name="Sky Sport 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-6.png",Sky Sport 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-6/playlist.m3u8?token=558e3398c06c67f5ab1daa926329d01fd77da11f4bf026259012d49a11774e56.1774190642.c25e31bfe985bdc915a60b31290736f1.18d39cbcc00d43349a1d7e8bb38c27fe.aceaa23da95bb93d1672d27f6ff3776a&signature=52c8ad84d06fac35420de324c40be7e50d5fc8a04c42aaf0e66621fb0a86b948
+#EXTINF:-1 tvg-id="nz" tvg-name="Sky Sport 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-7.png",Sky Sport 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-7/playlist.m3u8?token=50ec4ce5a1e0088d2625401c148e446a739094e9f4bf1be75e3a8fe283f1aebc.1774190642.3a4c1e10519514ca59bab0a10ae2078a.0f899a7d8ab89b1b1912db79eac25cff.0f2ff610ff3182c36e48efe3cef1b705&signature=173e61994fa9301cd96c60f84428500268beef3f8c6a5ad0c694a56ad010ceb1
+#EXTINF:-1 tvg-id="nz" tvg-name="Sky Sport 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-8.png",Sky Sport 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-8/playlist.m3u8?token=624d73c36419986f6e8d40f7e39116df6fb3c30575db9d7cc2b0f3a88165177a.1774190642.2d5ced3baf0ec16e516e7349d4eecb60.6ae6f45305a33d2bc69794b84e570247.87046e4c07b40aad083c7c957f166e5d&signature=77b24772d693afccfcc4c20137f8b85f6d4c27ed17b4515124a2c9bf8e179b81
+#EXTINF:-1 tvg-id="nz" tvg-name="Sky Sport 9" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-9.png",Sky Sport 9
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-9/playlist.m3u8?token=e91f01871c9ba07a94b1b5c5b9149c57584bc927fa345b36666e812d18901308.1774190643.f8a8514b8fede2107edc03a0958cebe7.8799a515df7ac3b99c52ff0ac2fa0cc6.cb3639cc1b73b547d5a2d3abdd873229&signature=b9c9fa07375fe6bd7e7d5535b355793947f4ffb9a933bd77b9c4197d27a1b95b
+#EXTINF:-1 tvg-id="nz" tvg-name="Sky Sport Select" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/new-zealand/sky-sport-select.png",Sky Sport Select
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-select/playlist.m3u8?token=ff5df9d25adbe256f167628fbec16fe1bbd686026c33cf300114d0cd93f909eb.1774190643.af4944f4331acd408cea7aabcdb47252.df50b1876759d86fcabc345ac1a0988b.1bda3fc138d1a4a5d15ef389b6a88c64&signature=46f6a3499a856b97cf8706b817781b5b0fd5fc49605fa1e5535c1f76082f7fb2
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Action" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-action.webp",SuperSport Action
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-action/playlist.m3u8?token=7dcacd5b0fb59a2fcb9dae9d4669158a5c1b2e019392a74bcc2789a69b7755e7.1774190643.e47d7f70e0cda0ccc90e7f89d3ac8f83.c8f1963b06ebae76b92205044b390e2b.b6d00fd5a87f33092b278aa236f64ab0&signature=d22864717f835a547ce7e6d84e78585336dbb7ba3b8e07ef92c565621f246cc9
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Cricket" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-cricket.webp",SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=e9433cd9b43ffae489ef5652cae31cf8d38467909ddef5addb7b980294d58635.1774190644.41eb0f375b2ba9384e9208f9a225a90d.a84f1b33c2c58526acc8430a84eb8f11.1f28757ff60aebd8449b4262ee1fb9a8&signature=36eaa0de1e4480db94091d696b7e4412735a977d2290d6f2fb60e7a488492d36
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Football" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-football.webp",SuperSport Football
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-football/playlist.m3u8?token=928b87fbd640ff0fe85d61623ef493c5019cf4f4c6f18244b67277d8978dec7b.1774190644.90526a23b879b2adbb880df082f26e31.dee07b60999acdaf5ef85aa954eaf402.5bc154b5fc6218036e78c8a73dfdcbf7&signature=6c5f039d45fc6d26aa4722e7ad0f80571c3db6421b252d2854ba890a6d55952a
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Golf" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-golf.webp",SuperSport Golf
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-golf/playlist.m3u8?token=2f5776e1b9469d6eb2015cbafdf66d05eacc258fc184261113e0a01233bfa396.1774190644.fdef9bca65440918b235b0671a112a30.a4fe4195bac6f4c202fa1343b7c562a4.d4fd3b4b4bdb5a892e22f8dec7543222&signature=d48b5437118485eeb8b20548e52bea3acb8e33fc96f5951e0bd5f0ba461ca438
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Grandstand" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-grandstand.webp",SuperSport Grandstand
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=6f5108c7d36f67d6f33da5e9e62a901d958be0c8d60a4838429a9e1dd109cc47.1774190645.62519e11e3ca2c62ec7bdc9f3ef19ede.806dd98f29dfbb32d055ec375aaa4bb3.3c88b0fc21f17a3563f13ea7dbacc70d&signature=b6eb1bc4e9dd28b80d700f139ee65041bbb6021f9096377fa39b7ad9ef3031df
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport LaLiga" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-laliga.webp",SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=66b89516ffe08b3f71ce9f8f9076815aa524ce3d8f311bccbeaa9d381990dfac.1774190645.c82125a060e1f5a346c9969e2b790589.3232a6e20b938b14de133c173a4f8438.aa06cab0751886fbd9c57b82744d2715&signature=77a15e35aecd4ea9f840eed1b33395b3dbff72a34571f4452075f781cda1cd3f
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Maximo 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-maximo-1.webp",SuperSport Maximo 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=949ef0f81cce5da803c65750921c61d7231b2dc3e6964ef115a73e256afbc088.1774190645.97c305b513111a3cf56f0a70703ac4fe.fd5ca0d6f464c72d1e16eabb86db4cf4.b5e2bd35dfb5f688c79f25254f553ceb&signature=8cac05fd8195cbfd639ce2488a02a2186c3d8e60f6ceadeef1c31595ed979730
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Premier League" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-premier-league.webp",SuperSport Premier League
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-premier-league/playlist.m3u8?token=9a2351e7b35f77514e8865649135e83ae7635e54ed4cb5457dee435b149007c4.1774190646.884b88d73264744fb3920bc4a69530bf.e96fa226807b5a0a3c1fdd311de33262.fdbe4616ee7d78f91c848bd22211f3d2&signature=1d5872a9e581639e3fe3a50bff3bf762772809b37bac1ba595675dd851007836
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport PSL" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-pls.webp",SuperSport PSL
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=a91446c99b98699500f4ed0666619b34c0480a1a6e992a7458f8314d783ffb00.1774190646.8707d17863c4d07f20de0f220526b425.1d851e51148989da9d55e50b3a203c2d.3bf727258d590bce968093390a5d5609&signature=e11750c71991fddad390af4258f9c223dadbcfb41361687e391a6db3d993f1a6
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Rugby" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-rugby.webp",SuperSport Rugby
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-rugby/playlist.m3u8?token=e65eea2128e04243f17101c795b90bb94c30cd1ab60e12f44052c9af82c61709.1774190646.b1d6551079c212cdb5974f1eb8cc85d9.23b732ebc38b22e67dee9e13e090a918.8047118eb898f086308ca208d3156eef&signature=3431db65b7f2fbaa964f35bf9a4e550d84df130a12d03de900c0cf4a21016a9a
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Tennis" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-tennis.webp",SuperSport Tennis
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-tennis/playlist.m3u8?token=39ddbe15ae4341b05dc2e861fc73d4a5fd58219dc36a7c934778fc5f18327df0.1774190646.cecb28f878d6fd469c3f187a907c474c.f542acac1d9c93d8dbfa635863c04b47.769f16757694976ad1ce71fcc5f033bb&signature=3f3f0684b0c480e6aec050542e7baed29f89deee837b55dddb4bb5aa4edf9567
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Variety 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-variety-1.webp",SuperSport Variety 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-variety-1/playlist.m3u8?token=7c90c0b9e5f269c2591965257796d62fa20f4856abf2e3b3fc87688be1c44144.1774190647.f6c495f47475e9d9dae9a483fbb6b179.47522c59a750f2fd7f6cbc173d1caa47.d050be7c9c1355055476522098abbbde&signature=fca62232b97a65b0896f327d3dcf3d4a521c0559e2553b35c4a179db0c07df3f
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Variety 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-variety-2.webp",SuperSport Variety 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-variety-2/playlist.m3u8?token=18e8bf1db4fbf8d17e52dab5cddbcc0d3eacaa324428c549f63a9ab191fbb542.1774190647.fc4fd9372714cfdf0115387feec4e75b.2d1cb2e44d5f87bdc4c6f6bec8689b64.968eb3091181150972d7218cd0eaf108&signature=8756134d911449d726df90f2397a78eee8f0e29a8211f43a4c4ef02c1f88dc9f
+#EXTINF:-1 tvg-id="za" tvg-name="SuperSport Variety 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/south-africa/supersport-variety-3.webp",SuperSport Variety 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/za-supersport-variety-3/playlist.m3u8?token=111ea98ef41539e75d0ee2d110f7452607c2dfa6cdc8f6e3aa69afe18d51150e.1774190647.af0095a99e94aa35d77aa57d610bdcc0.4a74046d46c645d2ea88c1f933d6c8d1.c9810cd0069b33f09de20081db01841e&signature=69e43bf63a0c13724898271cc9efdb028920b3df9d2c72f4fb216309df660994
+#EXTINF:-1 tvg-id="ca" tvg-name="Sportsnet 360" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-360.png",Sportsnet 360
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ca-sportsnet-360/playlist.m3u8?token=9515a87bc8e5e651f9e4e52fd1fe51785c5a40b473c90a63ddc3f92ddc211c01.1774190648.732e1c930086a2463b36baf00380813c.bb2d7bb03816bc51e9106dfc7817b5ed.eea13addd8a4d1c3fc073d18efe35786&signature=7a53594faeca5859b4db0bf6cfc31bde9fc86ac808d39ba4269afd95e4046703
+#EXTINF:-1 tvg-id="ca" tvg-name="Sportsnet East" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-east.png",Sportsnet East
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ca-sportsnet-east/playlist.m3u8?token=69036ddeafb884b71d15043274c55e3e4d5a95a93aefb1562b7268fa0b9dbdc2.1774190648.e2f09386adecad3a4594a42d4ff7a3f7.6132e6e223a5fe9840276746a017f48c.86a9dd774cd89a3a57b276045226e684&signature=1160af2cf608865c1e7a00997c322998c2ea0acedce8baf4979ff691e15d2669
+#EXTINF:-1 tvg-id="ca" tvg-name="Sportsnet Ontario" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-ontario.png",Sportsnet Ontario
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ca-sportsnet-ontario/playlist.m3u8?token=b4eef170e12b542d42d9085acf0aa9c516181b8851cca844192bb42240cc97b7.1774190648.2621413a0b38b461c06e68067381a3f5.c253a5a68f2d2e87dd248462e88b50bb.67ececf76846f18359b9deb812b9689f&signature=320a802cf9a020b85152a4bbc07bfe2969426afee0c366380f1d80908ad848b3
+#EXTINF:-1 tvg-id="ca" tvg-name="Sportsnet West" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-west.png",Sportsnet West
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ca-sportsnet-west/playlist.m3u8?token=24b1380b21d463b8e2aacfdbf4d99a4bd40c05aa4531bde9873223432b85a34b.1774190649.c490b3dfac08705903c11cc66dddb686.20887e8ac5ed02f2de50ddae042b2d29.b2f663ef7bd4369d49ad8231ddb874f8&signature=d769bb7524df950537c85de3f23f2b70db3722f214b13539cbef83f5e9cc56db
+#EXTINF:-1 tvg-id="ca" tvg-name="Sportsnet World" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/canada/sportsnet-world.png",Sportsnet World
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ca-sportsnet-world/playlist.m3u8?token=e5e9e1f299b0dd7943aa3a1c53aa6a86df1033374004cdcd6ab42b32788582fc.1774190649.4b9d7ba775872ba17c66abcdbe8e80c9.0a4b1d806bb746fc82285e3c57fbfda8.6562a315d9508c4af3e47049f35e0af6&signature=009b17587b1fd579900e084cb1d78f0641c63ba09d1af76b5d6910265de0c1f8
+#EXTINF:-1 tvg-id="fr" tvg-name="beIN SPORTS 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-1.svg",beIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-1/playlist.m3u8?token=f33ab414b5422c8e0ba93c22a3bbecd5772418cb2da5d819997a4ad951c112c6.1774190649.f3e5917f50b6f4ed341f7661e8c72707.ac6f7961b0de518bd0550f7724dfc1d0.700b8c5efbf98d1df62d294db781d838&signature=3c60341eb4b57e8e47755bdd79df99e0c2c20ea743f741612d969ead0693465b
+#EXTINF:-1 tvg-id="fr" tvg-name="beIN SPORTS 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-2.svg",beIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-2/playlist.m3u8?token=6a28390ba26511be1ca4682377048c02957d2de81a1573fb04d686f5ffa6f438.1774190650.97a910ce17ebe22fdc3b7c3ea74dc6c3.ccd75cac38e5c2d522b0c47f1652f288.c8380be8ee6876fe7f4421aba7ce069a&signature=ffc4400617507c12ccfd2ca78eb10bc8984045744cc193877e780bf1b79e9c59
+#EXTINF:-1 tvg-id="fr" tvg-name="beIN SPORTS 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-3.svg",beIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-3/playlist.m3u8?token=35ae788078254942c677ea83a5d2d5d11bca97985987a2b7c1bde7b4b30c13e1.1774190650.00de39e538387ada8093e00ce597093f.9471a09b96a7f781e81ab5a95a82cf56.5e64002fca3255fc3fe2859d8427a240&signature=0e32cf320587a8300f3080ca70a9ad31fafb251d50c02fab655488aa5fbef7e2
+#EXTINF:-1 tvg-id="fr" tvg-name="beIN SPORTS MAX 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-4.svg",beIN SPORTS MAX 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-max-4/playlist.m3u8?token=71a7c7440e6a6610ecdd0d8d4316d36df48d999059eb8032cab1ce2faa36726a.1774190650.4acc474ef3f81cc3ae161c7e5562b273.caeca8b8d4acd0461ada4d59a7951310.a3ff896e0498121cc791c56f896c4e4e&signature=8ed89f7f3ef233061e7b6d0493887ae45730a475629892fbbdd677a263a5eed6
+#EXTINF:-1 tvg-id="fr" tvg-name="beIN SPORTS MAX 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-5.svg",beIN SPORTS MAX 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-max-5/playlist.m3u8?token=9409e98099a2076c6a1bec6cf743204b64f5da9a6664d7c5793d98c947a1cf00.1774190651.2aaa11e53af952a7573adbd7479e7b3b.423ce0f0b76d7c98a20dd5fda20fc7bc.7f824164c643148375b0c7d41d066fe3&signature=12eeb1d4f533914b4fcf7f94fa9abe0f998cb7b4a383a08776904a08719e9d54
+#EXTINF:-1 tvg-id="fr" tvg-name="beIN SPORTS MAX 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-6.svg",beIN SPORTS MAX 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-max-6/playlist.m3u8?token=ef3e853b7c5aa3e0adeb3a362369870dc833e570c7d74e976792902a797bd563.1774190651.3860e6ff52386e584abf101d3a2f3458.11ff65521636583b6766da492ed58af5.f138f520c5e80c38cb71fbd5d9b6c1c7&signature=33f1bb830abacbac1e0becd3aef82959143aca05943f5e06a98464b4b4bc14ff
+#EXTINF:-1 tvg-id="fr" tvg-name="beIN SPORTS MAX 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-7.svg",beIN SPORTS MAX 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-max-7/playlist.m3u8?token=b750d3d674ef3c4a635648cd2c540fb3cdb72fdfa6954295c0901846c1959c46.1774190651.7b7d361ddefd85209aa5cd7cea2dcf51.09ed388977b2809a0d31a049142b0be0.248f48b10ea1a820905e483727835f91&signature=c395806665bd0e33af94e1c34e10c7a2ec4f85516ffb1960f25b9254ed54279e
+#EXTINF:-1 tvg-id="fr" tvg-name="beIN SPORTS MAX 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-8.svg",beIN SPORTS MAX 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-max-8/playlist.m3u8?token=652989906565d7aad87fc4ab28c51c3dc6b7477e919c57bd54722189aa673567.1774190651.29363b69fb219f13c648a2dda252bbc1.cdc0db310d4119771eac358e858dda88.2319ba04c19f3e627ac8936070633b30&signature=b788efc45fa9ecab9a1516c5fafb87667fba378f4c2d72aaf63c66915a51e724
+#EXTINF:-1 tvg-id="fr" tvg-name="beIN SPORTS MAX 9" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-9.webp",beIN SPORTS MAX 9
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-max-9/playlist.m3u8?token=81ef7b459060013463d5591181dbc61c784f01a11da80e51ca15036d6f17a8b3.1774190652.78d66513b53c32d82724a4b743cc3a19.5598997173e4556212f427a4ddc79663.1bd2f21c8313faf9b322d85223f67df7&signature=61c4acdb51d6266266e8a9e23c165c93f01149a7f2b2563197d88e639e3f2f83
+#EXTINF:-1 tvg-id="fr" tvg-name="beIN SPORTS MAX 10" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/bein-sports-max-10.svg",beIN SPORTS MAX 10
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-max-10/playlist.m3u8?token=47183ca773da8f76753dddda4e50b135b93c5a6f5f714cec8dd1b1c40850f859.1774190652.ac59a09917fe86e080e51e14a5642e07.8fad5957612bba01309aa95b9d3abbed.46de733011433d1430d141f5f8e7f216&signature=0980e094a8f9ee01262041a0ec7191b729b3b4521ea8e4f5ea8b09d791147095
+#EXTINF:-1 tvg-id="fr" tvg-name="Canal Premier League" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-foot.svg",Canal Premier League
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-canal-premier-league/playlist.m3u8?token=83a5a5907fb2ec441c6cb6b1977f7cb5ef3846d06cc96ec2a699d973b1f8d219.1774190652.0d12e899071b06fbc7e0a8e38759501d.fce5b77e548516686f22fd4609f17545.1a1c284b8b6c92e0c75a65b267987beb&signature=7121afdf5248407e7284fd382d6eab32c3a63fb7fd454f2a116d707c20a8d48a
+#EXTINF:-1 tvg-id="fr" tvg-name="Canal Sport" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport.svg",Canal Sport
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-canal-sport/playlist.m3u8?token=582f3956bb1fb75feb0e38bcab8f6b9d7606e3c24bdae7b0c992a7bdcc3f4a1a.1774190653.2842554c9915438d34b3df881cb478ff.37aab8350a6f91c1123c4e1a21a65f30.7051ca38877d90f92e601273a4eaf128&signature=396dd042aa02d1e7bcb8cdbc61f097d2f1b98e1b200421c0dd313377a7621211
+#EXTINF:-1 tvg-id="fr" tvg-name="Canal Sport360" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/canal-sport-360.svg",Canal Sport360
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-canal-sport360/playlist.m3u8?token=765dd60731ebcaea3e27389b5df5eccaaaaad7aaf8c06a77198e334762c426a4.1774190653.571dd0ebfd50c6dd1bb9fc3a9e7309bf.b325dd186641f56e9f151b68a4f4ac6c.ef8bf14e7b4b2178de1f888a29ee1fde&signature=995bfc1c9561ca16bec9b02e23517a399b8e7c7a4b5189882dadb3f2914253d1
+#EXTINF:-1 tvg-id="fr" tvg-name="RMC Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/rmc-sport-1.svg",RMC Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-rmc-sport-1/playlist.m3u8?token=b4459498562d34460a61d34704c82650ad87ec893d36991877dd8263ecba8b77.1774190653.72938e8b885af151218a7aed486c8762.fc38e08b072e08413b90a77bfb05014f.92a25a79d4f7a14925c31021205e66c8&signature=b7499d0896c2386d652ea467451a59127d6b516c6d3ebfd31ed0ddd545e8ec30
+#EXTINF:-1 tvg-id="fr" tvg-name="RMC Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/france/rmc-sport-2.svg",RMC Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/fr-rmc-sport-2/playlist.m3u8?token=c9f97368dcc2ef44154ee8e5504962689e58d4e3bf205687d39c59e76bab2cf2.1774190654.84804f7f80e410c3c0b7535428d3e1dc.f8871e008685c14251f224ee2da2926d.45bbf98ec0ba411c05849ac1a315f276&signature=2bdbe35bd1cf9a0fc8d9545417be010fcc8dde611483538a63c678bb70861be6
+#EXTINF:-1 tvg-id="es" tvg-name="beIN SPORTS N" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-n.svg",beIN SPORTS N
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=81e6dc0dd67d2a21af68558f5310f4a6e396026dcf555a5ecc42b4a1c5b92de7.1774190654.518694ade6d4abfcef3b74f562447763.1a63049d4df88618d19ddf09c8b6f1b2.aee0a01dfe061e6f0d419ade19d4274b&signature=93d2fd37f6fa2ad154e9066462c16ba1e5e3fa2c49ff68579b870e7379b72a30
+#EXTINF:-1 tvg-id="es" tvg-name="beIN SPORTS XTRA" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp",beIN SPORTS XTRA
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-bein-sports-xtra/playlist.m3u8?token=eeaee7a079b44b55030a8d8a23a1916d5ce9ade47fbca49adb42cf80b9e24ccb.1774190654.8c7e022a1b189934b4aa38de185d94cf.108ef1da9856c1d52dba24d948b2105b.5eb9a893667a4090c221aea1fe3b95a4&signature=7acf3b25da10162e18c9b1bf0692b3377646f6dce94c17bd8f80d9800dd2ae8f
+#EXTINF:-1 tvg-id="es" tvg-name="DAZN 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-1.png",DAZN 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-dazn-1/playlist.m3u8?token=2fe6c678ac0d8ebb3cd3298a8c3ae0f7d1ba9a22c6f95cd48f7b31c50da4dc35.1774190655.699b56d058ae30e463081f9fabed9be8.b5b5739fca001430f005f06e11a718c9.bbaffd6b9cad78273ed5f6d2260a0512&signature=1cffa68a89dd633791d1e452bbe8b61d1a59007f4356c8903b05673d4c6f46d1
+#EXTINF:-1 tvg-id="es" tvg-name="DAZN 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-2.png",DAZN 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-dazn-2/playlist.m3u8?token=183f55bcbf60d3c7a31b6c7de91fe1ca0964c821583eaa5a459cd898c6f2ac0a.1774190655.5831135c2900cc3ab35586b9347c169b.f2236ad8ab1142076aabee3ad37962ad.5e9e2d024a5730b61dc64eb7795d2ab4&signature=9197e6682c5a02d9129c37c15a185baecf8e57d0bd1dd169ff3c2e28625210f7
+#EXTINF:-1 tvg-id="es" tvg-name="DAZN 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-3.png",DAZN 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-dazn-3/playlist.m3u8?token=5c122b1a771401e677d5450ed536f3b34b890b2d0cb6dce4a60619b7eb950d26.1774190655.7b263f258c5c298d47f9c7b0fed86c4e.33ae1abe5c14b1b46be82b2e91594577.c3c26bb5bf2506e26ff6df413f423ddb&signature=9aa6a35358cf410e18abe9c8cbd8b23375ef0e36eddded55ea87330a419e362b
+#EXTINF:-1 tvg-id="es" tvg-name="DAZN 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-4.png",DAZN 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-dazn-4/playlist.m3u8?token=5f45bfcdd379b152d51e3981e63a94387c5d28ffdcf5628218d02a6e55469e6c.1774190655.69eacd3d86ad3fe86e7449024f378824.91f47ec5e60f22d849bac315b92aec9d.4e4c60d672206de8689f6179021eb513&signature=904b9c1d1e84f5469a3d0ae17025cf117c050bb26040b19ceb4f27bb65f93e37
+#EXTINF:-1 tvg-id="es" tvg-name="DAZN F1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-f1.png",DAZN F1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-dazn-f1/playlist.m3u8?token=d83b40dbafc85d99cb9cd02be20d5ac40925221c5fe207434202d3c4dab29ce0.1774190656.77b1f0200460b433452146b3618f3bd5.7cb58ed25e13ecea68e2c31096eff5a7.bb676c141c3d8d5e555ca2cd842b5ae9&signature=252623d87f2aee3bb1879548cda02447213396ae0e344520244fbd3016693058
+#EXTINF:-1 tvg-id="es" tvg-name="DAZN LaLiga" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-laliga.png",DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-dazn-laliga/playlist.m3u8?token=f5c658be4443626b9a1271026dc10806090ac955118390d9dc04169b608af945.1774190656.82883844f8fe704d0a3167bdcc538588.2d785e5dc357d933485b21f75f4cdda7.d07de3c60277e112ae30e1ad29f9ffdd&signature=b8b2d5443ac6c435eeeb0c94f2dbf48c10ffa25f176ac6b568372f79ca316857
+#EXTINF:-1 tvg-id="es" tvg-name="DAZN LaLiga 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/dazn-laliga-2.png",DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-dazn-laliga-2/playlist.m3u8?token=2e12c3c85e0a20abf63caca8f8816132c757863c218bd90c902dc357b193d887.1774190656.420711b4cd1c8b08a256f39961091d49.4277459867249a202c04c4a89e6c63ae.206da07886bde6b9b4934ef1619c377c&signature=47bf81ea70a4eb75581459ad884380cc1b7daea03c65cb87af3716b7a45820ea
+#EXTINF:-1 tvg-id="es" tvg-name="Euro Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/euro-sport-1.png",Euro Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-euro-sport-1/playlist.m3u8?token=1ea5191c02f828d18b3a388307b49527d1bcf913bf775f693db89a0d7be31023.1774190657.96d0c4be0346bdfbe0ddc4c1b88cf6df.bc8419ba21b37321a2c0b07ffb55fb35.6cb56d0fab25e5a86b883a52cab05261&signature=fdf95797eec9fbbcc735bac6fc2db01b22a146c277d8ddd10fbbcdec3df8aac4
+#EXTINF:-1 tvg-id="es" tvg-name="Euro Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/euro-sport-2.png",Euro Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-euro-sport-2/playlist.m3u8?token=dc7f4b0f59dc260f7b5b4f9d5a0cb349f57002a16259a780e65e0412b892cd87.1774190657.95621537d7b47566fc778a87a518d6af.2ee512aef44e3820e566e6434202708f.d5e69c970a5aa331735d744d7e73e95d&signature=af32321fb41abdcef637cc6455de1109ab9539463c47e3c9777a8f24f1e5e7d9
+#EXTINF:-1 tvg-id="es" tvg-name="LaLiga TV Hypermotion 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion.svg",LaLiga TV Hypermotion 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=a3154b2fe31351ae75f690874a19c38e816bba2d2e6db2d88a9d4e352c3c375d.1774190657.2f950fa4f1bac6925ae2b607f1fe0203.07ae9fdb7e74520c4478713304b5a8ea.6232751a0b26847146ad54c233bbe557&signature=56869403ef379f34cc9563f9b53eb36f190b63c98503201755501ec42766b113
+#EXTINF:-1 tvg-id="es" tvg-name="LaLiga TV Hypermotion 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion-2.svg",LaLiga TV Hypermotion 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-laliga-tv-hypermotion-2/playlist.m3u8?token=648211a362a5e38f2ba2f79322471300fd5108c00996d584f214d9710f1da52e.1774190658.8585205be97003c89dabcc5877c8c10e.540a2e98f0b916a1111febce60136919.de73d640894df432a0ff978ab0441ca6&signature=df682a152bf23e188985da96e103a8e3f65051f7112edf134b334ce2b8d45c67
+#EXTINF:-1 tvg-id="es" tvg-name="LaLiga TV Hypermotion 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion-3.svg",LaLiga TV Hypermotion 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-laliga-tv-hypermotion-3/playlist.m3u8?token=8b614fcdfe005b3a2093876097b5176b43294253a166f9d731ad143418ce6c9f.1774190658.eb439210460cc18ae56156a9d831991e.2aaa1c899ed0f79712b2663e0867a213.78a17a7373462709daa3742425675cb6&signature=9380f655b484cca73546fb59b25a67d8ad2252c66ef942cda15d536a909c5c62
+#EXTINF:-1 tvg-id="es" tvg-name="LaLiga TV Hypermotion 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/laliga-tv-hypermotion-7.svg",LaLiga TV Hypermotion 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-laliga-tv-hypermotion-7/playlist.m3u8?token=a9744786df9aa9672de8dded01b73e979a222d015aa85f41f9ec1a70b32dde31.1774190658.1a710c793472177c8c813bd4c82de825.9088cadf3281cab3a097aa3ad431f690.2050b5221b607076c25d45d4e81a6769&signature=2872bb9ac532e21eb0d8bee6644f5238cae69a2e2b5f8fdb3eb490b139589504
+#EXTINF:-1 tvg-id="es" tvg-name="M LALIGA" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/m-laliga-tv-1.svg",M LALIGA
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-laliga/playlist.m3u8?token=78fff0bf9acb295c0bf1eb6536138d8811ccd5a589d4397f11be2ad89eddc5c3.1774190658.d27e50f30456070dc9ab1f98ed2b8d9e.b22223cad76e8b6d5c3d50a93b62bc48.26ae88f9d377bb5c0fbaa8b2ecbb874d&signature=0becc814c5a5f3cabb466cea0a6b285eaac048cc868a9fa41eadfb5222aa4cf1
+#EXTINF:-1 tvg-id="es" tvg-name="M LALIGA 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/m-laliga-tv-2.webp",M LALIGA 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-laliga-2/playlist.m3u8?token=0bb99617a1c533bd2d9789c56735c5c0825d6d47581f543f0f0fe47d29aef788.1774190659.a1cef3d790c8448703df8cf6a18e80c2.686d4489526d24c1c3b89356d20e959d.7a7ba3a602462caf23b4298ac7aeb047&signature=b98fb89cfb1b2c5e390e6223d1465e0d1b7daa4e163ce7467f60347032049acd
+#EXTINF:-1 tvg-id="es" tvg-name="M Liga de Campeones 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-1.svg",M Liga de Campeones 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=7ed7c42218e04a572e00f104d5b888d39118f7328db2dcbc1657ea5daae743b4.1774190659.b3faa334c735ef82e1f164a2c1670b75.5462612de4f4f918f7e2fd93c81206c7.956fe40585f14d66b817fcf3f10b2ac3&signature=418c5c57442da6a6a4bfe95c3eab4e33406ac6b7bbc8af667f0a0f27f31b9bad
+#EXTINF:-1 tvg-id="es" tvg-name="M Liga de Campeones 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-2.webp",M Liga de Campeones 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-liga-de-campeones-2/playlist.m3u8?token=6cd4adc3fdd71eafdc1610d66feaaa1ce5463353c06ae801a13f0a58a0d13860.1774190659.e596ed39377de281ffb714ff5841316f.f3da48607189bc3026ca355cce1839a3.227b58ee652a67acb8ba563e456976e2&signature=4d251072e71cc2fe3b9acebddd3fbd56806d0fcb033c645f6df27fae34a40340
+#EXTINF:-1 tvg-id="es" tvg-name="M Liga de Campeones 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-3.webp",M Liga de Campeones 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-liga-de-campeones-3/playlist.m3u8?token=116da8d4c309fc369a35831b5257b36f3358f6d2f7aa37e95f25752e291946a6.1774190660.07378cd9bfd7c8c811da5d0841ab9852.0df596975fe4e8c26de8063ae967c185.12391a4c12e00bc40f508a61846ca1cb&signature=b8458b76d20fbdc2bffacab6efb80c799f82c3f79f964fbb6e858a4eab2bb1e2
+#EXTINF:-1 tvg-id="es" tvg-name="M Liga de Campeones 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-4.webp",M Liga de Campeones 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-liga-de-campeones-4/playlist.m3u8?token=b957aeea1e6de32ccd48fa36931a4e15b4e9ab332fbb99bf60328b44982328c2.1774190660.a12824308ca68d5cd5afb06500832e28.d4a8fa48e59f22fd02901a789c08de9b.07c5a22ef44a98fff1baea393b093a47&signature=90a8a688504ce3ad4fb79272a33f967ae5de27c41ca33a2d4adfe88a5741b722
+#EXTINF:-1 tvg-id="es" tvg-name="M Liga de Campeones 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-5.webp",M Liga de Campeones 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-liga-de-campeones-5/playlist.m3u8?token=f87a36ab4b524c997410b4dd5182bd99a0b0854250acaf1f7cb2a331982d7b1e.1774190660.ce2aef76791109e6fe6e6b5917c2f0b6.c103b57b9091b7174fccb44d66086df1.99347bcd28777691c0e705969679f1dd&signature=43bd2a41242988fd52c3d50310fac262f30466ece0c13e1a7b482e862232c80b
+#EXTINF:-1 tvg-id="es" tvg-name="M Liga de Campeones 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-6.webp",M Liga de Campeones 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-liga-de-campeones-6/playlist.m3u8?token=4f981b4c2ec8099d3869e12ef9b8d8220e906727cfb92a1c4ff56fa923105b2b.1774190661.9f1e61b7f3e6a8ab39cd2df30d1f15c4.6c79c08c3731ae9dc5faf70eb8bdf92f.e0843a4af375f94b9ee577e434ace644&signature=1ea9806ebeddff37e84d6b9d1aff6bb4b91be5bf3671597eeb59dfe9552dc485
+#EXTINF:-1 tvg-id="es" tvg-name="M Liga de Campeones 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-7.webp",M Liga de Campeones 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-liga-de-campeones-7/playlist.m3u8?token=cb0db041939070a56516cbe45091ad06d5b8176824fc18d0197c7923e40380de.1774190661.75a07a406aec64cf8ea6047ef90e8bd6.566ed3adb088ac0f70effea814a7e9a2.f2d19bd3535a345a7d47577c91459492&signature=30b7fc1578e9365a4aae7bf96a149b5870c850b9894160d5c2cd69cf20571727
+#EXTINF:-1 tvg-id="es" tvg-name="M Liga de Campeones 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-8.webp",M Liga de Campeones 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-liga-de-campeones-8/playlist.m3u8?token=687b5899d46774ed3510b59ccebca3e44f7f4c9a89e654a5e116ef77e7f5b60b.1774190661.50a129a87d02878a14ca5217e4824f05.5be8cea5f27a1b85c907a122c76d40ed.17b0e7eae148d0c17678dfc845c96abe&signature=28c38965a13ecde098f179d15d31d4e77f45eea2fa979c18d3cede90de79cb7d
+#EXTINF:-1 tvg-id="es" tvg-name="M Liga de Campeones 10" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-10.webp",M Liga de Campeones 10
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-liga-de-campeones-10/playlist.m3u8?token=f17552c534d2c797e3fdd57a12b1083edf730f481fc1c9ef1df31b1adee4153c.1774190662.2447ff1d3f32ef3fce455fa275df66ad.5144cef51e50aaa0c0bc4d0e2b6c68ce.57e282f0ea2e9c04e04eb15dcf03b2d1&signature=17b9d0e90f232d146c52d2cb7595d2e3eff5d37aa465ac3c3fd4d016be0d82cd
+#EXTINF:-1 tvg-id="es" tvg-name="M Liga de Campeones 15" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/spain/movistar-liga-campeones-15.webp",M Liga de Campeones 15
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/es-m-liga-de-campeones-15/playlist.m3u8?token=1a1947b44710f2cd569027ccfd2e03e9760d808b5f539c8301e2536240f09875.1774190662.158a262671b583637a6a427faacece54.e01e4bd6cbf0149e4d2efe39e7c7a64a.648b6970fa661db323c0406a3de77cd3&signature=ae404ddfc5f1cc4aecc37322141793d9b6ec4a5372caf58542b0d77fa4bb55dc
+#EXTINF:-1 tvg-id="it" tvg-name="DAZN 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/dazn-1.png",DAZN 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-dazn-1/playlist.m3u8?token=1b48a4cf3f1ea8c12045d8ec271b3fc8ed553993b54009f4e34eb397d117e562.1774190662.be87ec5ca528defe6660c8e7a2a77652.d59ff22583f11bb156d4478feceeb40f.a0e5210cd457dcbff590ac69856d4c13&signature=209e23407a1b9eec838e2c6ac86d105693d997f1e073cd5d18af840af6813fed
+#EXTINF:-1 tvg-id="it" tvg-name="Euro Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/euro-sport-1.png",Euro Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-euro-sport-1/playlist.m3u8?token=f306ac035988a000f525cb984c42becbb5a717565379d756bd6d0e84ef76e42b.1774190663.cb3efdafba1d99eca9ba2e29e52236cb.30543b1d8912efb61d96f6cc961ae938.7a359772d75bea0435251c81f90fd9b9&signature=e13e8d00a3d456c1c97d257d59f6431680c0f775c4827c462f14d4c57ea5a279
+#EXTINF:-1 tvg-id="it" tvg-name="Euro Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/euro-sport-2.png",Euro Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-euro-sport-2/playlist.m3u8?token=e76d207333cf1f066e917d8e73d2c046f33f15e5e39f857133aa1447c622fd0f.1774190663.1594d57ecd9a2e1a7a68da21af047089.0d32507c781119bd011145233dfa815c.3ee8fa59e66c8849a66207615d325ca4&signature=982bfbf42d76c73422586c8d8f4757ed14cb4c422df817b7e263f2d4b4bc1cd1
+#EXTINF:-1 tvg-id="it" tvg-name="Rai Sport" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/rai-sport.webp",Rai Sport
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-rai-sport/playlist.m3u8?token=cd857e0761bb5616dc2bac62cb1624f0058c1c23c4b84522f09c73c59dc4c68b.1774190663.b28f64e984bb4149a19d1daf9cdb0530.cbcdce18466472e151c7df867dc3dfa8.ac8659d3b5f924c3128264cf8aaeaccc&signature=0570211d6fecd09e085ff00b091e909b791652ac43e214f8ef426acdb0d29b43
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport 251" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg",Sky Sport 251
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-251/playlist.m3u8?token=74248015fa1b857906f8515ade52e28a2d7e5b87ceca04e6471dbd47e45acdba.1774190663.4a0191ed14218b5f6889b23179215b0d.da1b91098cfd94ec9339fcc308e90c4d.05ba4478103e69257653b0c4b9269fbd&signature=f40c7d57ebda5251ca41c218f2c1d83c90bdb64359b527d85c5c97bec615abe8
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport 252" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg",Sky Sport 252
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-252/playlist.m3u8?token=7807e7e1e4e3c8cec701497ab9c308147d1b0b70fa669c7a189d265253cd9345.1774190664.341989c399966f7cc9ae81df1017ae1e.3791c110eac102111d5d52e2ff9c563e.8776b8bd0e87316b0a2c00f402514c1b&signature=29069b410bfe20dbe18bc06ae3f8b3258d96e7186ccfbdd98b1b659c240d9887
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport 253" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg",Sky Sport 253
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-253/playlist.m3u8?token=a7f442d9ba6982a5ad622027e7b0715cff322fab4a95375f48483313311ae44e.1774190664.d58799090ae25db1bfeaeab5cb9ceef5.79f708257bfd6f6a04af36293d4d92d6.0aa3e0792ff16ec3d881c556c58bfe8b&signature=255eaa513b62766482ed7f893e30860c73d0440b82b3ce9512887c09293b4bbf
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport 254" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg",Sky Sport 254
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-254/playlist.m3u8?token=799496566b644692ceba4f3ecfc9331d846e86cc16adb5abfac7f4a8ba060e87.1774190664.daca6a17592e2e6176130e0616a5d3e3.aecdf5a2b4f31501c68228f1cdafa078.f7b8655ed3723154da488d568321d771&signature=0a5fb85441b589984b4c3c1267bb8130023099bba255f3e0f4a1ccd98f9e1b23
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport 255" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg",Sky Sport 255
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-255/playlist.m3u8?token=22312b981cac4a031701715775cbe340e72b4a91847ae37542ccb279f7fc9093.1774190665.c81fa64e9478c798a675cddae4983326.0e430667e14c89fc0abd8c91fe2ac960.90c4bc2629a9a1d3157ad035a24b6b50&signature=205bdccd4307a44753d4ef1dddeee2fb005433669bc74aa2a7fdc94b1823bfbd
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport 256" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg",Sky Sport 256
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-256/playlist.m3u8?token=fda2a38258c73f87a94a71b4d026d1e5f5cbf099b6cb13d7eda7d63a72230e5f.1774190665.21253bdad3273b594c9375b6fbf2b847.8a36e941ae5ee906b45440646cc68999.b95cd77837352be6aec0dea2423a4122&signature=d5305420360babd50144b538d54fea4a5f067bad28dd2ac205df1643e58df214
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport 257" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport.svg",Sky Sport 257
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-257/playlist.m3u8?token=78d9e179722f4d5354b1cb3adca3e29916cad2b7053f88997287924fc12bd17a.1774190665.69d162bed57196dd684fb5f5be456130.edb36b8b4e8630cf26e73421b914c4c3.c0b0c3998a107c0584addb4541294175&signature=4056c5b4589f8c9e06f5fa8dbec29a2a57161e05447bcc90e53c42c2c447df7a
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport Arena" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-arena.svg",Sky Sport Arena
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-arena/playlist.m3u8?token=319ee9cff4d228f7cb5ccd7885cdd1cd1255784807f38896dbf6f69b69a86d08.1774190666.13e0c7c475a8572b514d008b4fddea25.b0cc865cf65e1861142e635b3b822b8f.a67ba6c2d3a2608cd764817f36a44826&signature=dc4f50b447b7cd50e39cf378b67428c12d959ff02b30fb61e56221a031a97c6e
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport Calcio" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg",Sky Sport Calcio
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=302a08ecd000544bd156f4e2fbc0e5b27eb63fa282ec100c9595d3e018a78e2d.1774190666.b3b45b15f6bd68fb0dbe082df6ee44f7.b11fc9380a34938d850f943b9e51f60f.5d2332639c3504dcb88a9c8d55200b65&signature=9130d4f6bfe3abffc23a6580ab793ee2158571d642f2d793379e2a955892655f
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport F1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-f1.svg",Sky Sport F1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-f1/playlist.m3u8?token=141ae24e48faaa7a62ad96f8ef4cbb556770e3e2f9ac8d94c2fb7dcb888a0d21.1774190666.88230bedd75914f5adff4c33f2002391.76c4c2305602c7ba669f32f3e1a5c092.7451843a8f62eb2a8ce8f38a2da04545&signature=fe6138f41826951b0df964239fdc6b71f23c048a30a9fb30a29e041365916a5f
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport Moto GP" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",Sky Sport Moto GP
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-moto-gp/playlist.m3u8?token=65422485407e401abc77d8e0b5dc0d117e7135a29aabc608b8922f75b4476f90.1774190667.84e9eec345608184d5722fcbf5e2fabc.1de7b3b30645f7445642a9ea42bb1623.ee6266651c84e8b558648aaef201e8d1&signature=5f4172421c00573aa370a76b49b97f05c281d93ff0d372a20d7b47c1d0d56ccc
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport NBA" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-nba.svg",Sky Sport NBA
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-nba/playlist.m3u8?token=4ea1bdd5edef4a9fc86bafe0bd1ba859fe654a4a23e71c291a74e98d1e934ec6.1774190667.0a382f6bbc543a8455094531750f803d.a1b988d3f84535238d1ff01ce6bd08fd.ee3b00f2f756ba9fed52c77182ec0164&signature=dda26499821b6483aaeac63f93952f1dbcfc92244d20a1cc4d8cc2169e623772
+#EXTINF:-1 tvg-id="it" tvg-name="Sky Sport Uno" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",Sky Sport Uno
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/it-sky-sport-uno/playlist.m3u8?token=cc3984119439bb0128f0081a84bdd80f8d6695dcd82edb658f70159ca7a425c1.1774190667.d3b85ba357f2354d5a8d2bdd0c3a0498.279ac50f56ca4a1da607c63727631a6a.46ea01dfec417c444dcfa64c0dff1f41&signature=f863c700e0f5ae986ae2717c47f40b84aafefcdaaf317d943197e0737e57640c
+#EXTINF:-1 tvg-id="de" tvg-name="DAZN 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-1.png",DAZN 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=7e10aee030a339805c766cfde81540765a2f22aeb963e190d3600ea492d3ef67.1774190667.c4e9d712be8a59892e21e30ecd48c397.d94a2e3123d6b99b502e6ef2de120f00.06e5320ae0339bb43a7909f34e7bd9ec&signature=2e3e8b87d291e504ae18867efaf74a1a903913929df10d96061f7762548b965d
+#EXTINF:-1 tvg-id="de" tvg-name="DAZN 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/dazn-2.png",DAZN 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-dazn-2/playlist.m3u8?token=54a6d56626d430371b07256287808099ecdcfaa53945639dabd5e3a52fd92bba.1774190668.1ab20d87b526131fef5555be7a412208.5faa44191cc6ae42e91186287d51f5c8.46ea57b2d336120bbbc3c2980d007889&signature=b3f35a84cb0922e53274945915a3b4c6787901099db25709159c042874126c64
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-1.svg",Sky Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-1/playlist.m3u8?token=e9271684ed423f9336d0ed1f2e249e2c6c282feed3e89f4ca40f21b10ea313e2.1774190668.56a9f206d4b6ec3ed48c3313973580df.85bd641947dc900d89c8d9b7cc62f2b8.7c12f63adf366a132c6a9a971287c215&signature=4a516ec7e1f1a501520c3291818ff0e8a42e5b5754a4462cbfde67bb3bb8b579
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-2.svg",Sky Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-2/playlist.m3u8?token=668286f2251cfe5815453f4984ad5f8b916ee6b1846929cb71b5c34e2d3297af.1774190668.679870ad98f9444a6435c82c769f8982.b2292878b1229e534be3c2ddb41fc757.60161029ba4708d93105349fee87af87&signature=d4cb3f3544574c0fd1f8d0b879f577371b15bae6a6f7e208e4a4a1ccd01a7f13
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-3.svg",Sky Sport 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-3/playlist.m3u8?token=0c790bd0a616712c786289aa646a8b32cbfd6f2f19a30d0cae350494e4651939.1774190669.b171d36705c4133e393577d980e33dd3.bbd389d29d382c52a1b23b1b085c825f.f2a22946d8c0efe1ea6857ee0639040e&signature=6d3c6c0fba2652c36c20206cde5374039f234353694e40e7fced6c555eb4a3e5
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-4.svg",Sky Sport 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-4/playlist.m3u8?token=d199bd3b17b2f58f713c39849405122c47310220a5ed1c921210bd170491fa89.1774190669.deff3111eb47cd4b16c8f4038a905664.f69b0a4f4d6ff2b4af1102718679e09c.ecf475b95c0a5824d5c0dd7cc07836a1&signature=50c5c71c1014ee4cb1d0d3f25c09a19796b8bfcbe90076dc1a9e60423a3fbbc7
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-5.svg",Sky Sport 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-5/playlist.m3u8?token=64b486e72089712db57f701ad4a7bb937190e00ac9b0da8ec98622dd32458794.1774190669.aaf23fda39af3783559a5b60622688e0.8ccd6a1fb77fcc8eb15be2c968007e44.1ea90caec7e8644d42c1b97637fd312f&signature=4c01bc1b75c2d53a3efbc01abe32da30291776abbe249c41acd1b57a6cbc12d4
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-6.svg",Sky Sport 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-6/playlist.m3u8?token=8feeac0b8f6e9e8b7cef28027530bcec7223641c598be908b1f2b73a6261bbcd.1774190670.3967097d3fde361475995586fb7a2a02.6c4e646b0d9f6b07cbd85a58b52256bd.7e9b9dbe6d6eb05c21846f45e62ecd07&signature=4bb49a9e26a8132656ddaff2f9f8f48539c6f3b2e0028d64693a790ee0b3b9bb
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-7.svg",Sky Sport 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-7/playlist.m3u8?token=f94c56f2d02f888c1e1dc9ac88f00064a05ad22a20e9ca7963e9f0e9c9455710.1774190670.899347f5b3c75a118b991b8174681fa3.f17d61fdcdf24c7f09b38f60b9549522.a12261624eed28bc3c34d95691508462&signature=70b2e1ecfbe958882e4f79f5da5fb4ad0780b00b10178991054d598c1ccf30fa
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-8.svg",Sky Sport 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-8/playlist.m3u8?token=85dd159ae365b8cc630b747508e5aa25205cf163e0a31a99de3330f4f90c6356.1774190670.691809e7e95057a47d92f32bf33e72e5.62804e8a02b19a9bdfaaab191d8dd73d.123a2b8011fdc26da2449bc8f40144eb&signature=13f284dd5b551b949cd4dc48c1944cfd8c9e837425e3ef8eadec96b691919164
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport 9" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-9.svg",Sky Sport 9
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-9/playlist.m3u8?token=86d566a46ab3ccfa0bdf7bb2cdb74c88ea7878ee0cac5087beea652e789a5d97.1774190671.0dcd055182a9c470d6b318ed9f45afc8.715395656905506e01a8ceb402eda995.650faa936dbbd24dced0759926024fef&signature=fbca652ab02fbac5b62bce5e595b3a57d741582b645ef7ece05160ff5127805b
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport 10" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-10.svg",Sky Sport 10
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-10/playlist.m3u8?token=fd969a65cb48b0e20385d569dad19ec8d2bd2d66e9043dad0bc6a961b490f877.1774190671.d84bf66a6ed7e1edf8e5b9214925d10d.a4434639c73b827a31cc490be9ebcdd9.d31a4cf03f76ff9d6bc956e3c39fb819&signature=aa7b09badd58fe1753b15eb8f3a971cf2e58d03d7e333031d798a1be2b274486
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Bundesliga 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-1.png",Sky Sport Bundesliga 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-1/playlist.m3u8?token=17b22c11be86843e9909e3ae88f3ff368d2abcbf36c18d61fc1f89690bc2c4fc.1774190671.c2b359972afccdcf2f56ae98e03cf708.c5906ef698596bd4b74a55040316368b.38cfd8cd915717a06e649afbccb19251&signature=21736dc53e1c69f74e7a96d9f0763cfa6db00346865207b0f34bc6efd99af4c7
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Bundesliga 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-2.png",Sky Sport Bundesliga 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-2/playlist.m3u8?token=408ab28dcad3b60476b3adc9cce923a7c2a4a2d3aae65127ad37083106d528ab.1774190671.a8aba0703e29625d6f9f341ac1879479.7653b224da4c219c922f18d4ebbbaafe.9fc4829df8406862996ab0a533346f21&signature=fd220dd77daf398cb5a6d2884b0454624036017f62c2fc1f15e6a030d1b683de
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Bundesliga 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-3.png",Sky Sport Bundesliga 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-3/playlist.m3u8?token=e4f6c286df32c912bc461417394e7daa5f6e7af6299e2c5ab741bf1761dda0d2.1774190672.3ffb9992c58675e1c13b671ce2b75e59.fe10f00cbdec139ad3d6ae2de66a3750.e366dd627326c111c971cc67dad2d7e2&signature=738c781bff8d4d48ecd9b6d7bf6acc938b1dbfe3d7ff707f3bc0709a02156daf
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Bundesliga 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-4.png",Sky Sport Bundesliga 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-4/playlist.m3u8?token=82762bcb4cc4c6f813262595594ac9aa236b944a5b0c452427076f90d247901d.1774190672.736e4551e6326336dab593b193206a26.771c30506c9e57b39eaedf72390c38b4.81fd7b1d7e83a277eb1f9ed1342128e3&signature=b9ffed949ab2f0b09e32a2f20f5b2782a32f7e1ba9bd1772d0adb0673d934678
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Bundesliga 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-5.png",Sky Sport Bundesliga 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-5/playlist.m3u8?token=cfb03833c7da743d91f929df229dfd6a4e5b9339f9a4310da79ba56b833be22f.1774190672.a5be2805b5fc09668f4fdf0f213bee71.a7c7bee552831d46b03fb647d04e3c12.e307160c794e1110f0f39317fbbabbfe&signature=9bd6b2598c22b5c542d9be6c439863c0c781a662d2b726c5edefc81fe3dd30d5
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Bundesliga 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.png",Sky Sport Bundesliga 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=70724ad0fcc4edeea4f90b428447de6f4a7a74e6f44aa3ef68ff2b0c8fc57c26.1774190673.18df24d2ca69e99b53211e294d5b4851.2430ebdb26e9c2a8e4991f5bd0562ff4.a5a1f128d0c38964dc2e43de7a336c23&signature=2a09600ede1b775fee633cc55b69474b7ebdefb101d3fa55e858df611b4d2f00
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Bundesliga 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.png",Sky Sport Bundesliga 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=868515b4fef0e9be230f7719ef68b9f1b53741c63ae461eceb1b91b839a94410.1774190673.6c80c88364b647b2d56eaff660034c5d.d087d66a24446089fad55c6a45accbaf.b8f3188ece96e97f37eff84b759839c4&signature=a633c066e6adb620a1c57266ce671f7c037066e17486ef9b332ba25f4261fca9
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Bundesliga 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-8.png",Sky Sport Bundesliga 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-8/playlist.m3u8?token=ba3ccd3907c29ca127b3e9f9dace0f01b70a9d73580d66b2ff7bd7611b4402cf.1774190673.6345ea66d7c474b96d27e70709904ff4.c8a2e4e1baa5e5e5167fcaa31c7df0b7.f5815f488122eedbeedce9eb9b5857b9&signature=3245bba727226b367a2a11f8bb69258980ea9f811919dc97d8f4c01591eda08f
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Bundesliga 9" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-9.png",Sky Sport Bundesliga 9
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-9/playlist.m3u8?token=56a5cfd9cb87cfcb9e231c32c0244cbba832ed1e2c6ce93f4ae9a381013cc5b7.1774190673.8d9761f4ee8bdd8beb542383dd86bc24.4ef280a71156c1a64f50b25469bf5551.4764b417f1861cae4d72707f16365394&signature=d8b9818d29c820d825470dfe08802c6988043b5dc58389f0e39e3f2c466f2a47
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Bundesliga 10" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-10.png",Sky Sport Bundesliga 10
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-10/playlist.m3u8?token=56f5f9c57f811b094488d308c2fd171c7e7ef58c4832f6c5c27188809fa77309.1774190674.e02925083b6d89263b15473bf5df851d.5d8f7a4f4569f4052e5b6cc88a5087c7.e1875e6fccd42ec72897cf6f153b5aeb&signature=37445ff636915c209286a56380a34af5b68b286e962259a0ee0b1d602f549847
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport F1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-f1.svg",Sky Sport F1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-f1/playlist.m3u8?token=ffb8f862019b2bab83961888c39ef6e2933fbaf043da06756942183af409b726.1774190674.a2e9377b1228dfabcb5443624970641b.d3b4161b60fd2eb85bd67fa72d87e19b.53d373f11b10718467055e7126a9b2c6&signature=fc714868fc87703ec87b0a123dbbdf9c813f622046bc2f9d8c4aad219ba08fe5
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Mix" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-mix.svg",Sky Sport Mix
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-mix/playlist.m3u8?token=1d0c64900fcb4d1250224c18afdc5e85d509b9897f3fd1894037578388a41fee.1774190674.ed954a5349c99f3dc124617b99925e06.5009c31bce4a73662fe54607534a0b03.e2e3589584bfa8c5e4f56276ab883214&signature=edf9b1df71f907863bac9a3cb3de3741ef0775a3ff8d2f018b4ad55505bb1297
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Premier League" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp",Sky Sport Premier League
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-premier-league/playlist.m3u8?token=2c5079c23952072d9374c340a506b6cc8f2a281fe095896fed8104f6b1c0141a.1774190675.b14b7df8f62406d0f4c668cfd174bf54.9d0214abbc36fdb14cc9bbdd874a63c4.eb13af0253e5d40f4d0f79500f3a3153&signature=e239506177301c1c9ab174b444d99e342db6b8dc0a73fe58fde942a383b1f36d
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Tennis" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-tennis.svg",Sky Sport Tennis
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-tennis/playlist.m3u8?token=cc360741646a292428ae72cfda0bbde2b0539eff0188794b5734a58827f0e9c1.1774190675.e4442d8a36684c242badf7cbad137983.a51883626c9dffae25dd730ef1770f7b.abe3c3c2ad0543b8f960b6c9c2561f9b&signature=ef78a234343676f62dd04a612c508eb56492f267a5964d634c968f4900516835
+#EXTINF:-1 tvg-id="de" tvg-name="Sky Sport Top Event" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png",Sky Sport Top Event
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-top-event/playlist.m3u8?token=cc8f80d3bad4bfadf44c3400e03ff078ae3b2492cbf6ce40888765404e00e4ae.1774190675.e5a059e0323df6947e4904a20c0a40b2.05991a8d328321fb7447b0c5019be557.de62006e74dc65af4bcf4ba8d7d0a57e&signature=a79598c5347e5808fb42833405a9864a834d665a7fdf156eaacb7f5a600d53c0
+#EXTINF:-1 tvg-id="de" tvg-name="Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sport-1.svg",Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=ab2d70fcc333c29d9d1f0abfa3e67863509018fbf72d4157cc3c1960e923a75f.1774190676.f0d25761bb3e9cb6b517f33f84ad39aa.0f5e96c64eccba5b50893e17a7d55ad2.b71e2ceb9f0f6590ce29b9c3b59f6671&signature=c42df517a5bbd9f1c3432864c3df4a71e123b98eb1f509483be19de970ce8ca7
+#EXTINF:-1 tvg-id="de" tvg-name="SportDigital Fussball" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/germany/sportdigital-fussball.svg",SportDigital Fussball
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=375b4a511e2e4312b8b07dbdef619384f263e6a38cdf4be58fbe0ce58c45befa.1774190676.5800a619602d00a635ccb1cdb0ecd020.1dff6769a5787163371b30647a5a86e6.95c39c62284ad9c2ca3be614a408aad2&signature=6a492145d80b43b513d1c4fda942920bc8b7e11cbb927ab6f8f1bd2509973b5c
+#EXTINF:-1 tvg-id="pt" tvg-name="DAZN 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-1.png",DAZN 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=4ba0559271d1e19c14208bf390289490f82f62c4f086f62d9491e259e1445052.1774190676.246d65a621fe7b98b791ccb56f7ae4a5.5c642a6f08c5e9017b39f6f2b415d72d.c628608447554034aa63ee9427d81590&signature=fe022d5f88b04d3f99c954706e5256d63ad76cf80c8b1c418c2b7a43c3c0dd7b
+#EXTINF:-1 tvg-id="pt" tvg-name="DAZN 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-2.png",DAZN 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-dazn-2/playlist.m3u8?token=1aa489db0cf03b095c3103cf7cda16af3f9055848f0ad41d8863c8a939b4bc24.1774190676.cb64456ddc8d3a0c7ae26f4a40793be4.bad39520ed11217b796705e42015255c.789d0043732ff13940822719db13c344&signature=29bf882158be937f9a1a7e0dee4ca5fa67e9b2763617f4d51667a8b757285b23
+#EXTINF:-1 tvg-id="pt" tvg-name="DAZN 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-3.png",DAZN 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-dazn-3/playlist.m3u8?token=214d017a39525436e26d0ec472a3e5d14239b418c5c75479cb3c9d05b2b094fe.1774190677.10e28628ca2bccd73ba75d4aa128cfa2.1a057b79bcb1c1bcceb1f24a1daa2ee7.4ec8ac9f08ce475f38160ee0eb29cec5&signature=cbe8870dec3d48d006dda612c7e6cd214986ce9cf29619896b9618928ec6584b
+#EXTINF:-1 tvg-id="pt" tvg-name="DAZN 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-4.png",DAZN 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-dazn-4/playlist.m3u8?token=1812587b6d2857dedddacea2cbab3541fd7a30fc8bb79dfa544cc1b921ca1061.1774190677.dddc12b53dc728cc5497263df8f99323.14e801899df728777191e4c9e093ee45.cf09429ee1b0132d69f1f58f1c8f061c&signature=4b298c9dc904833c7c7fd214c71b5c2e1c8d2047fe8cbb75943af4aafb7f4218
+#EXTINF:-1 tvg-id="pt" tvg-name="DAZN 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/dazn-5.png",DAZN 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-dazn-5/playlist.m3u8?token=de43fd9107c65a156012f9b32b3e99e772629aaa7fb20f1ae726a64ce185c35c.1774190677.f345baf2e85443decc5f49c3ef27e826.c9d81f130a6b72018fd4dc9539f72479.f02497c17dbf26c3d71b0f8fde7fb08e&signature=741abfdb87c49c21b47d5853c6ab72289bcd68d3b900a374c1d9dca930fb03cb
+#EXTINF:-1 tvg-id="pt" tvg-name="Sport TV" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-plus.svg",Sport TV
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-sport-tv/playlist.m3u8?token=b6a6237397b73c182352bfc9f230fc86ac19130b7564203219ae6cb043d13508.1774190678.4cab6b0e30c1c201cb2e92f10897d95a.643add7435c0f40b1574a4857cb88b55.8b8f02cf8ee2df28f214fefb60d80edb&signature=1a9372e7e84f2875000ed66475b8f93fb540888c6f44d1879f805aa9b34c001b
+#EXTINF:-1 tvg-id="pt" tvg-name="Sport TV 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-1.svg",Sport TV 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=65727361e50b9d676610519678a50e1a895619c92e7230a7fcbe7f0197559a09.1774190678.5ff63eec1d13e47a99fbd362a77da0d4.e88bac5bbf247fe5150f2611a4e6fc1f.6f4c9ea6a62caf69fb0084416b978ba1&signature=4189916bc7369a734201da5f49ce088bcfeed019d51bf3cd6bcd7a1dab6f864b
+#EXTINF:-1 tvg-id="pt" tvg-name="Sport TV 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-2.svg",Sport TV 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=be5b1e609285ac8df7d414e65c9df38cdaebeb695fa34aeba064250a2d06b532.1774190678.08835fa72e3ff5fb83cd7bb04c9a1218.72e19683fffb313c33c5e7cf5bdbd586.60be644bb6ef091f3053c233774b2f21&signature=eae8d929cff549786a3e993bf48f8bde63a4cfac7cc57beecfc3fde40858f285
+#EXTINF:-1 tvg-id="pt" tvg-name="Sport TV 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-3.svg",Sport TV 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=6a567d536a6a4d7ed5ed280b25d1b03442db17a952a29f80152b3b74316816de.1774190679.c53a26eab13d57a302a84b55c9d26528.6dae4bb2adc60cb56d7b6f68423536cf.74f944d4b8597200bc3f0d8a58e7cc21&signature=80388c69d5fba3beeaec20f8fb5795c16b5771746dda84c7a5b6384bf77020ab
+#EXTINF:-1 tvg-id="pt" tvg-name="Sport TV 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-4.svg",Sport TV 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-sport-tv-4/playlist.m3u8?token=5c66ca03265eb0624abc0f439a8cea258057f59ae493ba9e2923b2136120dea5.1774190679.4cd61bec257c3b0548a701fd8ad7e9eb.4a13b80a3ba5d445a67c088404b6d342.81f83dd9a2f4e667e0c4b1215b1e2b84&signature=614dce35f88c1daa6d100ff335c910454f3703718e9abf13727aeb295e7f715f
+#EXTINF:-1 tvg-id="pt" tvg-name="Sport TV 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/portugal/sport-tv-5.svg",Sport TV 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pt-sport-tv-5/playlist.m3u8?token=5c67308e1112fee286f4b61ec1d73d6c017eb15da592f15b8b20bb4ceb6588cc.1774190679.1e183585413e7ae30d9e82cd2727ddcb.1a531b3cd256919e21002068351a91e3.26c981bd595ee0b1b56b452650549f81&signature=2e1a0f5c15781338b0b83ccb5aff2bb26dda97b8fe8676101dadc41421687d59
+#EXTINF:-1 tvg-id="nl" tvg-name="ESPN" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn.svg",ESPN
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nl-espn/playlist.m3u8?token=be6a0c062dc7541482c0e6a9c1209a30788ebaca11dfa30b2c1fda230e1fe0b3.1774190679.6126cfd104202126cce72fead9e1110f.92e61a2565fbce5dba77cb7c242bce32.9b44be597d67be803bb333bf1ac9e359&signature=2fcab4877f739d878d7889bd5072cd054333027c3f0005cce4f3889af2c02665
+#EXTINF:-1 tvg-id="nl" tvg-name="ESPN 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-2.svg",ESPN 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nl-espn-2/playlist.m3u8?token=ca15d57081f13175c3d5017e3ebf5b713983eeeab59b664205aeaf315c981082.1774190680.083f463b3037d667fd747a5f57c6dd19.401e54374994341537988d7e1a360690.33a03c97d0fcbbbf56ada7556f75104e&signature=0d8c370b8e15367d20159baee2b61baba77c3ba0648485dbbb0413aa6c316f21
+#EXTINF:-1 tvg-id="nl" tvg-name="ESPN 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-3.svg",ESPN 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nl-espn-3/playlist.m3u8?token=9288d9439f11a9c78be27c7c513c232265ea60470a7443b428f38bfbad9c8151.1774190680.87b2d2133fa122835e369da2665f9c76.f8562a7c8d67bab7eb1c1be4fbba47a1.51873a65d37e4492129392b9af0a8518&signature=8dee13e8e40ea6ebba5e3ac44e56eb07c2265bd8ee74356c542d680f51e53d6e
+#EXTINF:-1 tvg-id="nl" tvg-name="ESPN 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/espn-4.svg",ESPN 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nl-espn-4/playlist.m3u8?token=1131d7f4b260b8f00bdd9b8d09d2b2ce208e8d7f00782e575039e57f3a090c51.1774190680.0c6c5a64464678f6200b1fe3c18fc77b.c4a69d0885109f07fb02a9eae0db6bd0.97f6826476e5ec51ba0a29d5ae668282&signature=d920f83fe469956d17f84ff9fee195cc114e7d3881a86b16fe70b2c5e4b7cb78
+#EXTINF:-1 tvg-id="nl" tvg-name="Ziggo Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-1.png",Ziggo Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=4e9bef4b22e6e7bd4da708993305aa598f0002b742264d568fa12e58c3830460.1774190681.c14c30d9f177863633799dc767a08ce1.d3cc63aec354e530c697eb884f8c8750.34e884d1e5d9fd43c431194beb16d4c7&signature=b3f8cb7f2b67f01a4933e510682951f766c524b0203cb759b0b00940cb2f6804
+#EXTINF:-1 tvg-id="nl" tvg-name="Ziggo Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.png",Ziggo Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nl-ziggo-sport-2/playlist.m3u8?token=8c2830e0d4b479756e396378301193cc63acc97e54652fc3fd1f7de248241662.1774190681.acc183783769f8619fbf9449de8b4c2c.cbe309530d421801b65e2b161dfd8e1f.989df68876b676f50e64d69b55871cdb&signature=5854eab3ecdccf77f92211fcd15e364a5c6fc090b48cffe0b295564a2a3943c7
+#EXTINF:-1 tvg-id="nl" tvg-name="Ziggo Sport 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3.png",Ziggo Sport 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nl-ziggo-sport-3/playlist.m3u8?token=34480a5f72d0f9db6153a18876f6337e751db6d640239365d6ee0696c175072c.1774190681.2046aea2e19d9481619dc485726b447f.3aff1a283aab53e9026132f3868e0e8c.32d6f78a8066c13dd07fac1dda3dde2d&signature=4ca361bdff8e49940661585a5e6d50ad4a350b1f4c446b580e77a0c63f732867
+#EXTINF:-1 tvg-id="nl" tvg-name="Ziggo Sport 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4.png",Ziggo Sport 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nl-ziggo-sport-4/playlist.m3u8?token=2c620a6418245483082bb880674402deed7bbda27804d6d32417380d030b7cc1.1774190682.e4a3932cdb214050c34c1cc13f90fd73.e51a3db8c61a425cd8f23129b167a81e.5807d3961c7320136145b0326a1c7910&signature=c4ce95336a1cc80bedb0331bbc7a06b64efd87818066675ce5efa990de2c567c
+#EXTINF:-1 tvg-id="nl" tvg-name="Ziggo Sport 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.png",Ziggo Sport 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nl-ziggo-sport-5/playlist.m3u8?token=2c8d2c5f42069b6de47a2f9fdc56924db6cbb806e0924f6fc00f0fdc04826542.1774190682.72a9fa227f6ae57ed2e99b745b7acab8.379b5b9506b928e9fd3c5da1fb313748.fdd80a7a26ff585835942bacf490cf0d&signature=9f477af609b019dcfcf6c75919ee9744040d3a17b83acdd9549c4905144065fe
+#EXTINF:-1 tvg-id="nl" tvg-name="Ziggo Sport 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.png",Ziggo Sport 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/nl-ziggo-sport-6/playlist.m3u8?token=a66f297614f4a7f3dcfb2062fdacbcad4c45e7b306f8f0aa7ab04a8eaefa0b08.1774190682.6ee39de6c833833daa6ca86e6883691a.e3dfc6284c8484ba151b093469ce0279.4943dd0c5004aff48a3e7095206ba981&signature=0de51cb454a4bbe586fb9f85ca5c2a9a495f99e6918091d02419e7a3a276c6ee
+#EXTINF:-1 tvg-id="gr" tvg-name="Cosmote Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-1.svg",Cosmote Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-1/playlist.m3u8?token=f0671e0e22768f6ac3a1b254a82ddf18517e99205bbb1a17eaadc7ac060e9ac3.1774190682.69d67bf8ee0a416affcf11c08a14a421.37f4f584af51284920b74ee3d2f46bdc.66ddc077b8874242d5cb99c8c350dcf7&signature=8b7555c58292512f2a19aa0c56fb2daedbd6fe9c5aef66d09f96fed81b9e446b
+#EXTINF:-1 tvg-id="gr" tvg-name="Cosmote Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-2.webp",Cosmote Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-2/playlist.m3u8?token=71562c0f7ea84254bc8a3cb10c2a0db96184c482378fcf16e79249bc7bdb1980.1774190683.761ef347cfdefdf74784ce5ae815b40e.20f5737815288905229174aa3751f960.4ffdb1fc8821498d9b252acc1e149827&signature=664446637edce306043cd9e3e2138cc449d6e16384d294467eff317d1d220cb4
+#EXTINF:-1 tvg-id="gr" tvg-name="Cosmote Sport 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-3.webp",Cosmote Sport 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-3/playlist.m3u8?token=640b2887cf9d04ac6359e8ca1ea513f38cfeb947f045d6699f53186df16f84c7.1774190683.8d35812154c517a44c4d2b3b6d03a119.314dfce1db9bfd737d3fed786899f758.9f71189cb59c5f84c64145a5540d40c2&signature=307cd2d3bcca1e6ebe085c4b5902f4377890eee09b5ee6fea70f8f4d6a561d7c
+#EXTINF:-1 tvg-id="gr" tvg-name="Cosmote Sport 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp",Cosmote Sport 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-4/playlist.m3u8?token=84ab08c6f5e135be5e04445e73a613dc8dc6381612c02de49d655e24aa4c8078.1774190683.53c29f6efbf96bc92e232752d1e5f5c7.13b2a932a9143377b0370aead8fef5fa.b52f0ebd697f7e2d779bb936675b935e&signature=894d1c1a98a3ab6d448da5cc84a5a0a2cc6ec1f2761498df1e5a06855d29dce5
+#EXTINF:-1 tvg-id="gr" tvg-name="Cosmote Sport 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp",Cosmote Sport 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-5/playlist.m3u8?token=7511c8958c9bc3a7520b57a2199cf668e3c8029ccb54545778bc7882bef8a8d4.1774190684.925ef15cf993ea5143fa12144bad55a2.ab2a2dd76f3f00a31ffc3171561456e2.f8896f4fc52221ace67e254270f5f36b&signature=bc5e201defa3d756df9aa4259287c6ee9ea55945aacd0928b31c288624c0dee4
+#EXTINF:-1 tvg-id="gr" tvg-name="Cosmote Sport 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-6.webp",Cosmote Sport 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-6/playlist.m3u8?token=584cd4211ada14250fadfea7c785fb121e84739e9d4fbbe019ea949bba97a81c.1774190684.1d1fcb6a6d06f589c93cecfc634ab6e5.ba6c9cda4f31b85701c0dffd207cec9b.131dd36ba0e8a35b41d1657ee08a7291&signature=1de7499dc6b759553c752bf8a08e07900047ea8bd918a8b470928e9bb0009e01
+#EXTINF:-1 tvg-id="gr" tvg-name="Cosmote Sport 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-7.webp",Cosmote Sport 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-7/playlist.m3u8?token=68cdc6095cfdac750b545e1532ab21d1cddf37a4bb58d8d65e621ff27b408b2c.1774190684.0806417d5b7d59033efcf45886282627.e9c5ed67c0c29d70e84d39a8d41f9da4.22d9c74763799e9eef5d29ddcebb59ca&signature=28b67fc43e9fa7a8babcd9edc8820b6f96f007dc12a5f013f7e9255a5534e70c
+#EXTINF:-1 tvg-id="gr" tvg-name="Cosmote Sport 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp",Cosmote Sport 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-8/playlist.m3u8?token=35a8cbf604815a374c545c3486e9fdd9ad543a24a0ef21377fc263b3eb3d8d8b.1774190685.c7a9232be3ca2451e4c6c505baed1935.eb2ef5798466ff5c3e7a0d1ac2d9d368.94ebbdbc59ffa55303e6864d3e38a160&signature=b7a24574210bdc471fe7eccf9338eb1ffd11e51f24bdd50eb895d99ea6841d84
+#EXTINF:-1 tvg-id="gr" tvg-name="Cosmote Sport 9" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/cosmote-sport-9.webp",Cosmote Sport 9
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-9/playlist.m3u8?token=90f4b86632f39c821f06035c2246c9554f9b18c3851b53b6136620528e616d8d.1774190685.92e3c7af044461b02d9c8ee742fa2ee8.d71ad0b706d5d49356c8cff78cec3130.474845a4fdde4bab8b3344e5314459a3&signature=6dde27866be434840e45aee7257c5e1aa7a6a476c3f84b38c85624fe954329dc
+#EXTINF:-1 tvg-id="gr" tvg-name="Nova Sports 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-1.png",Nova Sports 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-nova-sports-1/playlist.m3u8?token=8df887edba872094b2a7110b139d8579094cda7fb6c11c04023c62ea08b0c7e4.1774190685.6201f878c16a0487de12981e5c2f47f4.3868b18012a6d4d2bf296e3cf28ef751.b48e3f7385af6847c43ef4d2787752a5&signature=67e400130166b7ec9fc382bfcc0df9cb8277c16fb1e5c662e2e4c289f7a22fca
+#EXTINF:-1 tvg-id="gr" tvg-name="Nova Sports 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-2.png",Nova Sports 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-nova-sports-2/playlist.m3u8?token=827ed29b48b833d1558c58d0449e081e8e9418e4a05de23ad34ddd3c834aacb0.1774190685.25c51de722f9d6f4b97ffb767d489199.d1a6050f979a0866f9bee12d311f2884.b214f1c29c47124198466f570e3bf899&signature=db69e01b4c2c5813a3968364e3bcdc44883f1fd85fbdec678fa07603c538c6a0
+#EXTINF:-1 tvg-id="gr" tvg-name="Nova Sports 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-3.png",Nova Sports 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-nova-sports-3/playlist.m3u8?token=2478753d138de71f6b6473b35783be9bbc17288613bd6065bc2c03364197258b.1774190686.1e8d1fc8bdaebb0098ab60cf302fee32.37334097bba8726f450f3644329924b1.dd464be1d3fa4be3681b8ef25ae79447&signature=babb07dde1e6d185b6fcc8e0ff36f45f3b67873e8595ba541dbb3c1fb32a4441
+#EXTINF:-1 tvg-id="gr" tvg-name="Nova Sports 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-4.png",Nova Sports 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-nova-sports-4/playlist.m3u8?token=7dda27869fec9618098c5210b32f710601becad920cd30e538a3f96f28199220.1774190686.53a37444cbbf7066b3527a06ffe7cf00.e5d8fa392a6fc5a6fe67179b70de11d5.19827e1e183b8ade306ca289f6f77771&signature=3d112c9f3ce56c21bd4ba6e3ee1016459a0b947c7e07c4515d7d191173102fcd
+#EXTINF:-1 tvg-id="gr" tvg-name="Nova Sports 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-5.png",Nova Sports 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-nova-sports-5/playlist.m3u8?token=d63f1e872da4184192f086d2f488cd9b5376e589de1b944f8676339c95ccde7e.1774190686.ed984b8128bdb5cda414778b36d8036e.e74dd1efbf12c48b15c7796ea88e7fa5.98b114ba3ec53a22cb7f9e2e58aab237&signature=514574780c92653e4f48630ba4b8b8bdf2531b5b6c19d03a4f59a1710c625134
+#EXTINF:-1 tvg-id="gr" tvg-name="Nova Sports Prime" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-prime.png",Nova Sports Prime
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-nova-sports-prime/playlist.m3u8?token=f4962f78d08502c1609566c345239486ba15829a8a189c018bfe44217d924c92.1774190687.daf0934aa50001779cb5398b5b3c42ab.c08921cdf6d81d4af41b9db3eb4960e8.f84a89abf86c8d99be13d5de743b6f08&signature=08765f90e17cc1967e10a6d1796f75afaced64194791a28279eb1e1e2348dba6
+#EXTINF:-1 tvg-id="gr" tvg-name="Nova Sports Start" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/greece/nova-sports-start.png",Nova Sports Start
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/gr-nova-sports-start/playlist.m3u8?token=98fe734f30dd823467c6d2f71d12eac8922957001a9f6be5a98d023c7ef75360.1774190687.2e8530e7ff771c87b0a57a1b99424dee.7a14814178eaa35d294aae14335f3cbb.2a557ce6aefb330e7a99a1a271d09544&signature=4f85ad83cc99fbd389e2530ff43a90ee919fb826fe52a8fe68dbc0b5294a429d
+#EXTINF:-1 tvg-id="dk" tvg-name="TV2 Sport" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv2-sport.svg",TV2 Sport
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/dk-tv2-sport/playlist.m3u8?token=6a2390337b31f34f50063ed6e7a81263071328435444d4a68e70ff147e945f2f.1774190687.a71c0ab638d97f2f3b7d86b9b4a8fa4d.6dd2beb482f9d0ee29549361c32ba2a6.2b6938c0e33a55a4b1bf2b186f823b4b&signature=f7e54a21ba6c85d5c990ef81544a2827c05b69ff0c910099323c94135aa325c7
+#EXTINF:-1 tvg-id="dk" tvg-name="TV2 Sport X" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv2-sports-x.svg",TV2 Sport X
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/dk-tv2-sport-x/playlist.m3u8?token=dab42d285ba2d4e6b4bee07532edfd748224a2db1168028850e9a153d72a442e.1774190688.d74c95def55cdf67efff3c8ab80aa12f.13280f3651c037a74e822341a2750b7b.adff252c04730f3af7fb01c576bcb11f&signature=9adfaac1331b665ed143f6b0728bddb5a50fa1edf704151190981b708c61dfc9
+#EXTINF:-1 tvg-id="dk" tvg-name="TV3 Sport" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/denmark/tv3-sport.webp",TV3 Sport
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/dk-tv3-sport/playlist.m3u8?token=4efe8c0ac656b8044371aff7490e3713d0875b4153e8159074e704b8205d98c5.1774190688.ec3c895f05150061001d5d3f9f3f6f4d.2ff282c6e08ea3765567ed58c3a4af4e.b81a66001375b49d2606ae59b92f56e2&signature=6ae99c40dc2d9e1963cecc5b8b5fa2cff74cfac47eaa0c1052a9cbeb5e2a0593
+#EXTINF:-1 tvg-id="at" tvg-name="Sky Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/austria/sky-sport-1.svg",Sky Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/at-sky-sport-1/playlist.m3u8?token=9eae0e249402193f8e2a45e299407f9f974fe04673b6c4bec1a1ed8c9f16604a.1774190688.d4614ddd7b7492e6249eb28f46b20d2e.2e681726bf6fac8f28d2d4fcd1ca1308.a3b6283fbbc8877989c7970ce9e69859&signature=2b18a6b3138d77439279b77115da8e3d011ab782188ce9f943790202bcef92eb
+#EXTINF:-1 tvg-id="at" tvg-name="Sky Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/austria/sky-sport-2.svg",Sky Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/at-sky-sport-2/playlist.m3u8?token=68abedfe9e69694a79092c9f065c51578f4a31107a6dac22c81a51f1a17b84b1.1774190689.56045745c74ccb0a6324b8e861aaf0d4.bf23bf6982037d23ef7ffab7054d4e3f.4e11d39e75a82104d4d73b38d2a35d87&signature=bb4bbb0e62b94d6aedc6e6123c60de667ac3340bf63705eab7da4e2b7c80670c
+#EXTINF:-1 tvg-id="pl" tvg-name="Eleven Sports 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-1.svg",Eleven Sports 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pl-eleven-sports-1/playlist.m3u8?token=c8e6e791992ebb46d7914d8ee2324565435f641f457c1f6278dc74fb27f0d600.1774190689.7034e9c63e46133ee38ed91ccd673288.e59b27a2e0c67302ca7efefadd4c9ff0.6715be4a70c4075f03f207f8bee14dcc&signature=ce03a4b060df1cd8e2688da747a965af009349480f3a154944e685e2a7c250b2
+#EXTINF:-1 tvg-id="pl" tvg-name="Eleven Sports 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-3.svg",Eleven Sports 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pl-eleven-sports-3/playlist.m3u8?token=55dece2d3d0b72eb0d97f70c882d1283cbd645da847cf1a2ab62c866fcc3e9ed.1774190689.7ff733c7fbda60fd522c6d8dff96112e.49da089a0525a18a3aa91586127258c3.e9836845c1046464fae1fca8349dc878&signature=de96158fe383366745fdd92b4bdb399689dea12f44d70b9c2ad96d8da38a8a1c
+#EXTINF:-1 tvg-id="pl" tvg-name="Eleven Sports 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/eleven-sport-4.svg",Eleven Sports 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pl-eleven-sports-4/playlist.m3u8?token=25279293d6b112f270692379e47527586b3fa91a752a0d2892708a204f534a3a.1774190689.9ab66bfafb2173807a911486d749fa85.70a045b76078e98739e333a391419792.420a561e2ef89f8f9d9310ec547890a3&signature=79bdb3e6063b4cd619b7bee8b2710036da7a962736ece62a5426566b855fd551
+#EXTINF:-1 tvg-id="pl" tvg-name="Polsat Sport" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport.svg",Polsat Sport
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=99a932b29707feb018814765a445c3e7beb7b04d9f89942b6a7d32b0d93adeba.1774190690.b45138642b9a350892a219ba7eaea4a5.e13037c2f766d3a9fc99abca9f6d3657.1fa651ded23c31dc8a9a579b232e2055&signature=62b3998e54c570451bcfd5ed3bb09974589ee6c85275a5845ecbd62c57fd021f
+#EXTINF:-1 tvg-id="pl" tvg-name="Polsat Sport Premium 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-premium-1.svg",Polsat Sport Premium 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pl-polsat-sport-premium-1/playlist.m3u8?token=869157c520d689886a2ad9e985537aa05b9e133babf82c2fa8057d41c0b3ba6e.1774190690.a3834816b22725b8ef1059ca5ecd0380.b726939e2b4ca8b84d19e253d369a0f2.93cc3d8ad3562ceb34560a788789b9c9&signature=326b9cdc2732cd1c642fbd9b9ed6fdb4be23f289c25d258f21157f88632eaf5b
+#EXTINF:-1 tvg-id="pl" tvg-name="Polsat Sport Premium 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/polsat-sport-premium-2.svg",Polsat Sport Premium 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pl-polsat-sport-premium-2/playlist.m3u8?token=6f8ed9e3433d3aaaf5d8f8740da47d401250213a96833116f6794e33bbcd76db.1774190690.221f8af680cb840de7f44578c6f72dfd.bf81706adce5336dc407b9b26faf3b37.348a9ad15dbf5587c9cc03280293b97c&signature=e81d8015eee7bdd89a612043b5e878250e8c6a376e7e470f8f5d8aaff680f619
+#EXTINF:-1 tvg-id="pl" tvg-name="Polsat Sport Premium 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/",Polsat Sport Premium 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pl-polsat-sport-premium-3/playlist.m3u8?token=fd8bac95f894778e611f2af3aa14f03149959b3c585bb15e213645bb0eb6efec.1774190691.f48fda16464c8b2278c038fda97d75e6.7e56b22b10250ee0bd0a31d475306064.6c1eb593fe9fff0c9bd5a58d5429db9b&signature=9a2841cf3d6e2499d9ba1cb8987cc98031becf1efa4a81b3b6f0dc2ffe0a9aef
+#EXTINF:-1 tvg-id="pl" tvg-name="Polsat Sport Premium 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/",Polsat Sport Premium 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pl-polsat-sport-premium-4/playlist.m3u8?token=87c754428699b61dbac6d863276c02e0259331574f6229b3b0bfc44980a0d76a.1774190691.fbabc1c6ff18f376a97b50fa05dc9c24.da1c60d0be5530c15c489dc110d0a234.f58b225b381e9513505b24e97152ece3&signature=3ad69fcbc5773ce23e239ba3a7ea19b350c86a972c06b6a372b7c9b547dee7a2
+#EXTINF:-1 tvg-id="pl" tvg-name="Polsat Sport Premium 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/",Polsat Sport Premium 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pl-polsat-sport-premium-6/playlist.m3u8?token=0a2a59e355daa1776b3198388f2be603f1af9e41ca8cfc5746518e81d6d857f9.1774190691.6699a262f71a5096090ba6022da7d589.42f594e84bf5bb609b7df8715f18213f.c1e375a46becd2c8df49793713986f6f&signature=b356c57d9aa45cd1fab99b6dd6ab56d7cda8efc471a882f42d93eb591e029ab6
+#EXTINF:-1 tvg-id="pl" tvg-name="TVP Sport" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/poland/tvp-sport.svg",TVP Sport
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/pl-tvp-sport/playlist.m3u8?token=6d442a8d189c0d3056b18ddadea0938378931ddebeab5650396f8dba9ffedc6f.1774190692.204c3048cd4e6e3cda207306a7b553b2.f8936d1096a1904635d0daa73d960e3d.235ac564368275a1cf16859dc137fa30&signature=06da4908d030c33704ee555f6c54b8c96eb23bfb872fdc7e9508f314427c117a
+#EXTINF:-1 tvg-id="ru" tvg-name="Match Football 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-1.svg",Match Football 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ru-match-football-1/playlist.m3u8?token=c8e351dc3c1bb9d9718b5b57d7b091bdd095c984aecd10e3746e9a9a2426e05c.1774190692.428ce656eedde69b19b4cc93744be57d.c23007ffda8650fad20d35d7530a087b.207384eab8e888f74b227c79d9ddd797&signature=a33cdd77a3b849787fff1950507cf4103f4fceabfc10ddd39d872525c1b33d34
+#EXTINF:-1 tvg-id="ru" tvg-name="Match Football 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-2.svg",Match Football 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ru-match-football-2/playlist.m3u8?token=75aab8bdf861c1be3cc86b4ceed02ecb3f8e9c6da3fdeca57493b27724446651.1774190692.07a449ae661456a4d11109d2f9877c88.da131f98317506e27dd72c455ef50009.f97927e911192b8b3f247f318ab728d6&signature=329091337754a475020713462ef72603f7839a0e32d65ac450d7da181cede8b2
+#EXTINF:-1 tvg-id="ru" tvg-name="Match Football 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-football-3.svg",Match Football 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=8e157c7559f063e452654d652c85be963009af1a7f63cfe445d289e0e8bcd500.1774190692.cb106ac22b92f4ca09fed6be59636164.a3c2f4f64e302997358766b754ceee6f.cc74c7f3e6d52bfc9b73cc9f96c6e3ae&signature=35833ad61bedbcad238f2323f60c0b85229fabe2e5c35d098b72e527f9aef992
+#EXTINF:-1 tvg-id="ru" tvg-name="Match Premier" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-premier.svg",Match Premier
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=f28a68ac994f34f84afef1e79d7f6c658b8fbfdca8f6b9974877f0773008cd80.1774190693.dc766309af54b6ee40c1d48d959b992e.f5c51760069f09a33435700eacc2c44b.97bd0ab5a2e39e6bfba68a0ca289a7b9&signature=1192dbcd43a72492876361bc56d7859cc5f82269f231d403c3c042f231aaa0b6
+#EXTINF:-1 tvg-id="ru" tvg-name="Match TV" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/russia/match-tv.webp",Match TV
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ru-match-tv/playlist.m3u8?token=42f2c9fdd3e8c8e29956df144c95ff0168fe7c14b9a49e09bfb29b260f1c403a.1774190693.d90f4439e4e57598b144572c432f4d21.64fa791523e869f92e08d7daadf6ffaa.500ea8dc904dd989352f725bef7f97e9&signature=bbb9a1c8f476bd40a9d1195dc3c7c7173ab39aff20d22885d86d460a8a6efce5
+#EXTINF:-1 tvg-id="bg" tvg-name="Diema Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-1.png",Diema Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=835df49645111e914d80cca1eecb7f9af4e82a1201c5aeb7ad712784d4419844.1774190693.9052dc00d5ec3ea5443cbadb55511a0d.c2a0a3bf9e3c73ad6ea1046c36f6ddba.90526cd66b1545c73a1e12157abcbbc2&signature=591ac02dcdd2b31261582b54e9d30661a7a44f291dd485dbd6f3665ac30f48af
+#EXTINF:-1 tvg-id="bg" tvg-name="Diema Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/diema-sports-2.png",Diema Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=7b8c7e5fa650b7228fc338373c1ec515877c73966b963c24bc5c2f710c7a3b7e.1774190694.6cfa9d370c60dd2cd43c589a7ebbe39d.59d9a26f8468714a4e7c2b5e85ae531c.ccdec31cacb4d19c542be02aca88f2aa&signature=e44993723b30400325a05d7516dbe2b4b901219948ffa0cce236928e369bcceb
+#EXTINF:-1 tvg-id="bg" tvg-name="Euro Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/euro-sport-1.png",Euro Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/bg-euro-sport-1/playlist.m3u8?token=c2b92fe99443b70428e76f9741ff5254b0a7c614fbd23396b1856ba0baa82d8a.1774190694.652240a63d9ddfea7b1757ea6f5a9547.914c0ab9fb78a137ddd3958113baed19.1e57db65ae978b1fbd7a61faa13ba89e&signature=bad0f3fdc8983a81ba426c38502e45468a05d16fa2729b9824ff41459f65f33b
+#EXTINF:-1 tvg-id="bg" tvg-name="Euro Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/bulgaria/euro-sport-2.png",Euro Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/bg-euro-sport-2/playlist.m3u8?token=0198260a17591c166416356404feb8dc461d83940741ff5c3a9a479b54c8ebfe.1774190694.e4a488fcac9c66f0c6827adfbc1d7f47.e28061576660af339372ba393bb632cd.70ccd582639e190cb265c1b8d6fad0c4&signature=638d434cd28dcc9bc130c08e8cc7c7947968ee88c3565f25f626bc4415aa4461
+#EXTINF:-1 tvg-id="rs" tvg-name="Arena 2 Premium" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-2.webp",Arena 2 Premium
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=044788c3e7603aace1a5451b0e88c6436d3554d0bb8f4c0b57776aecb4257b54.1774190695.c7c03198b381ce5d338d13e02a157e26.26949ad14ada46f41f1687d47e5cd0fa.4d6be71d9edfa71eb9cf55e269f769b5&signature=3e9aa4f58a13b03c7ef19944522463f3b5b5b5659d01196322e34e64580aefbb
+#EXTINF:-1 tvg-id="rs" tvg-name="Arena 3 Premium" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-premium-3.webp",Arena 3 Premium
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=ba2e54a167b67f53193fb66488d7bfcec1607fd3e763d981474ac2fa9a33e11e.1774190695.8751948dc28cb65643f5b81401c2462f.16315c732e42aa1c595e493f6dfb711f.9189cc78d868000bef7ce4956def13aa&signature=02bee78a9871b4c4f40863eb3d781b8f9ae8f92ad7f9002e8bbad71d9797cfa3
+#EXTINF:-1 tvg-id="rs" tvg-name="Arena Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-1.webp",Arena Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-arena-sport-1/playlist.m3u8?token=ebd0363fe794dde7a0fa2a37b4d5c51dffa08edca356c4697da73a6394870b15.1774190695.e6e7e80135fd9e0058e159f093188d41.b7628b13f35e3896da591c728818bb45.567c7dee8e9a9e11b0923a73ea3eceee&signature=b06a262987e644b4d70237559461a98aeca0ca9be0d1b45db76b6fe967b90aac
+#EXTINF:-1 tvg-id="rs" tvg-name="Arena Sport 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-3.webp",Arena Sport 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-arena-sport-3/playlist.m3u8?token=36250279c4df42827acb449993221af37774b2485c936942afbd243848addcdf.1774190696.77ea1d2ad9585908d7adeaeeeb11dab9.d0fd7b419c7ca09d0a073b204d513edd.d14187d12f17710cecd11f6276610503&signature=02d20b7127695112c603368eecb1b5f4d5a705505c4b6dcaa4402923dbcb8be5
+#EXTINF:-1 tvg-id="rs" tvg-name="Arena Sport 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-4.webp",Arena Sport 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-arena-sport-4/playlist.m3u8?token=4669e1b32fa2232fec474b50421c2c6a3b9f5e251b463a05f2a77587e02970b9.1774190696.0394b994a7331d72b4f2764eba0d4f7d.ffa6c29c390dda8fefe42fddfa5792f8.d7e30cd2b2cbdf4059494603a9566799&signature=6a1f65c6a82d3835f7d38478e596cf0644cbddcf49b1c2942d40dc46a0aa1d7a
+#EXTINF:-1 tvg-id="rs" tvg-name="Arena Sport 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-5.webp",Arena Sport 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-arena-sport-5/playlist.m3u8?token=855cf0d7c723035835503676252a82b9210ee0f6447c8cd020578108e279caee.1774190696.70f66d906d01a46312fef12d8512fa9d.4904b7ffcd898a74d4ce62ecf706400f.e7d7c680894e7a5f6a85581cfd01bdb7&signature=4f5d816649aa3f84968833f58b8db17ef6c242ca85c2027c6f287b9b4623bcf1
+#EXTINF:-1 tvg-id="rs" tvg-name="Arena Sport 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-8.webp",Arena Sport 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-arena-sport-8/playlist.m3u8?token=e91cf95df11749da2efc1c9d26c7a8187477bddafdb1f0597d11a982d3af17d5.1774190697.8aa8f6617fcfead559c4675a56e32dac.d7ade157170abba68df133aaf4867702.01d1c000470c07cc18c2e8a51f85d46e&signature=1b1817cf7354b01bf8e94c676efa172f55c47e281025b551c638507dd812018d
+#EXTINF:-1 tvg-id="rs" tvg-name="Arena Sport 9" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-9.webp",Arena Sport 9
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-arena-sport-9/playlist.m3u8?token=8f62e79986a963a8dac21061ee8b73d1da8b41864b5ec448e7170b3ec451cb2e.1774190697.42832515bcf512e6a90d6880e576af23.0702073c50738119371ecfc4de79fb07.ea922d7dae35646cae61e97f05aed87d&signature=fe7060d13cb3c01cb0bc9f968ecb7824f74ee173348f2d71752a9393618e4ccf
+#EXTINF:-1 tvg-id="rs" tvg-name="Arena Sport 10" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/arena-sport-10.webp",Arena Sport 10
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-arena-sport-10/playlist.m3u8?token=d20b389f9bf39e83f9822324022b9a2009f378fa50accec6b53963f9249d0d71.1774190697.86a961d0b8e8799ea609e623e6928c73.50615c8b6469c91ef46e858f8175f975.199e3eb3c9d3037687ade67f02c092ec&signature=51f09c02f4914293f0553a067fd43cc648785a4aa0188ea64f390c9d4c2761fe
+#EXTINF:-1 tvg-id="rs" tvg-name="Nova Sport" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/nova-sport.png",Nova Sport
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-nova-sport/playlist.m3u8?token=4db15d4ebb3f0c0295cb75b91bcbeacab093effc66f3a3da68f13444a21de3e2.1774190697.c73a1173faa652089d3f19f9680f01ea.6e6036833a9513beeb817178b373159d.ff2758a90a7944374af6ac121922c815&signature=c72be85b1b9c8f61e0af417f9a17f0f1947827a02a09583382cba14c948a7586
+#EXTINF:-1 tvg-id="rs" tvg-name="Sport Klub" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-hd.png.webp",Sport Klub
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-sport-klub/playlist.m3u8?token=262ebbcdb48dd1f87405369468523f7049c8ec49d71e14b9612cd7642d95e14d.1774190698.47efe85663f1cf4ef193b2e5ce913149.77e252cb259c06dad5c6ad18b1ed6ca6.267f632c4623573630e99fd2becaa54f&signature=0c48da0fd17195be0f5c42f3875c84e102c3a596b82f45a4e8a34da831be7ae1
+#EXTINF:-1 tvg-id="rs" tvg-name="Sport Klub 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-1.png.webp",Sport Klub 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=ee0abbfc4c4d01c38e70feabed3ed44e7f591d1c1254d3b4f8baa4f3436f741e.1774190698.ae34d7687dfffd3d97ae343c0e89c8d5.39bb020ab863c50bc5901663577eaa7e.694f0024d5af482657de4dff26064e04&signature=f4a3cf53784d76d5b5e984490778a7f76076112d3566cc770369b57f54e3644d
+#EXTINF:-1 tvg-id="rs" tvg-name="Sport Klub 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-2.png.webp",Sport Klub 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-sport-klub-2/playlist.m3u8?token=8a6c125a395546ca234987196d596d7b9597546edd85a105b6fb28ab5b50bde8.1774190698.8680f9080588a9c3fa887342cf21af99.34a426bfebf53d58f182d88191a6b395.3214acb439826edb715fa27b6c665279&signature=3fde30403664c3ad766ccef3333d5d598ed77cfe165cc10f3f5e16d62764746e
+#EXTINF:-1 tvg-id="rs" tvg-name="Sport Klub 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-3.png.webp",Sport Klub 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-sport-klub-3/playlist.m3u8?token=59001bea396834cfce299859b8c72b83832d506c315cbb6b2c15543a648049b3.1774190699.cc66dac993a82510390637ccc8ce51e4.75c1d1840444989ed6b7f6acf536b8d6.5bf720ce16ac58226f86c406e799606c&signature=90013d7e2a50f186bc79626a086ca65352f6f457d1c52318851bd481a6aeef15
+#EXTINF:-1 tvg-id="rs" tvg-name="Sport Klub 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/serbia/sk-4.png.webp",Sport Klub 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/rs-sport-klub-4/playlist.m3u8?token=4d723ec30df1484e20b5f772390506ee0609ed9d58572b669ba06d3888dbf135.1774190699.43a22849c37f50d244c628ab41e12858.d3687ab1579a985d00b3dca65f8c572c.7a85d7e979a91563f0f35bfeed8d558b&signature=12948813cdb4510f47425a165f0734b39adde726aca5bb76ee5f744428e6c6f3
+#EXTINF:-1 tvg-id="hr" tvg-name="Arena Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp",Arena Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=88764e781c4a93c193689af283038271d1a548218d33dbf48f0b9cbac3b65606.1774190699.bba9cf21b1093c89da5403c297b3067d.f2db9d379ac3f9d71ed7ba28498e3f05.6f415975cf4e7d69c7192dafb142d493&signature=cbd8170bf217f4ddea2a8b4dfe1209bf1f9f776d0f7abf51d0d26c7b46d6074b
+#EXTINF:-1 tvg-id="hr" tvg-name="Arena Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-2.webp",Arena Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-arena-sport-2/playlist.m3u8?token=0373c32ac40de3b445ff9a7177071509491e3f768a464d71b4856255fb0c0dd1.1774190700.39e4b1bb6b566df0f0c45012ddc4cdf0.8e7014020ed7a1d7c0e8802de4053025.077b319945e372fbf5fb8dafd215d8ae&signature=3b03dcbd11183e965c103f057c183f8ea237f6f841dc6e13be0d09960bd2f199
+#EXTINF:-1 tvg-id="hr" tvg-name="Arena Sport 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-3.webp",Arena Sport 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-arena-sport-3/playlist.m3u8?token=4fa35cb7d8d7e9eb8bc02bc520a9837760734ed885f0990b4a4aeec593d8d69f.1774190700.adf37268936f5959cd4e317eac69ae2c.44c9fd61d31bdfe1fc336c00e341dae0.f36abda26344a9b669f1aa5e59c7d4df&signature=7415ba874e2c8788250736343a819feb3e5b763ad0d7edd19e2b8991494e7d44
+#EXTINF:-1 tvg-id="hr" tvg-name="Arena Sport 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-4.webp",Arena Sport 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-arena-sport-4/playlist.m3u8?token=92685c5c1d06068ea12aecf367e26ed7a054b8b4cd051b830278fa427feaf621.1774190700.fc233b493115aab103ea7bd5143e6ed4.02719ea053cd985eb9850c82b5be7a6d.8f3c66c5c4592da36ed857b3ed5ac098&signature=13191f400520f065c3a6ddfa725ace8a282f7d1fd45dcc39d32192e9f1a2fbf5
+#EXTINF:-1 tvg-id="hr" tvg-name="Arena Sport 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-5.webp",Arena Sport 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-arena-sport-5/playlist.m3u8?token=1d1f1ad89355edff9ab599280502af25213bad1cd07a0b3c5ca1646a0ea3711e.1774190700.776f36dcd5957892653ee2dbcd364622.196c25bc542f05112656a87cc0a52864.78eb86e17fbe8d82f93b2db1bf3d6e74&signature=bbd187fee1b266bfb22dfb41fe25957866a183e962f6144f82dcb96510b7561a
+#EXTINF:-1 tvg-id="hr" tvg-name="Arena Sport 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-6.webp",Arena Sport 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-arena-sport-6/playlist.m3u8?token=b1fa68f4fab541e2c75c9df01082b40bc91de5d665d131f66808f02916a82880.1774190701.d0de13e921e51f2f9cc702020d53e319.94cfb94706b6ded5284dbb4d7120e978.bc58e5a257474b78cccf68c6a2e731a8&signature=08d3087378dfa985309bf7de07c68fd8eff698f3fcd82ef6bb439d8f24e139a6
+#EXTINF:-1 tvg-id="hr" tvg-name="Arena Sport 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-8.webp",Arena Sport 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-arena-sport-8/playlist.m3u8?token=3bee9abfc682888c525cc4e5c6a45368dc88b138f4b88eef1f3e5d07e4a7cdad.1774190701.8d361d3ed618a5f3556db7b8b7e0b883.a5ac5961dff9dd3d9753aa5f80cc57be.59c3fb97f67cee3ac00cfecefc558e25&signature=a86bdb371df117eaa27b24697ba351a716ec9ef5f92ba4a40e9146a58afa5405
+#EXTINF:-1 tvg-id="hr" tvg-name="Arena Sport 9" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-9.webp",Arena Sport 9
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-arena-sport-9/playlist.m3u8?token=7964dfc27eb38460af7f03682236e1e714a1fe631cd18b93b44f12f410f71464.1774190701.b8e3035e5bfa5124652a09c678edd71c.ca1b30582efd1aa580e91d505e268ee8.99d3f79b83b0a204b8a0645b6a1bae48&signature=13f11e9fad106f4ca8d15e053ddddfa360f1a2a60ba53666d189bc20333d2e82
+#EXTINF:-1 tvg-id="hr" tvg-name="Arena Sport 10" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/arena-sport-10.webp",Arena Sport 10
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-arena-sport-10/playlist.m3u8?token=17907654d5f60c98b36ac354082161bf905ff740be90d803c96f55a77715ee88.1774190702.87931d58df42850a1c427e1c68d19325.e7e0f80e1b2adc0437f6cd2026286df6.5279a21204d410c6da76dccca4bee8cf&signature=d1fedb33a1237529cc28adb5ae722fad947a5cdc1f1e7fd7db1fe259b5e63715
+#EXTINF:-1 tvg-id="hr" tvg-name="Max Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/max-sport-1.png",Max Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-max-sport-1/playlist.m3u8?token=b06411f5fbff3f96fcea2ae3de3a88c7e5e2a650f6e72d4e34d1d767ce210041.1774190702.8b813ece48f18eb8483a8f9c5900b2f4.2c161c4ed5f3a3814ffa683b623d0e85.8384f5ba5913155a9998de32db84d35f&signature=b064b9755c85e3f968dd3c7b2dfa67c3b18b5c0e828831be4aee272e9b73352e
+#EXTINF:-1 tvg-id="hr" tvg-name="Max Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/max-sport-2.png",Max Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-max-sport-2/playlist.m3u8?token=b08a836bdb6d31e3e6a7f9a6727b85b552138ef85429a1480cbf61be8664c572.1774190702.3a754621d6f7e9e9890f47bbcc592ac7.fea08df8c490df17af6c2d22c8aace48.6a40bb6751af86d0577399d7b0dad250&signature=b85566c44784cb8ee8068744afecefd693bc84871433f00852fb20bc661a56d4
+#EXTINF:-1 tvg-id="hr" tvg-name="Sport Klub 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-1.png.webp",Sport Klub 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-sport-klub-1/playlist.m3u8?token=c9d151cb0fd1eb22365f6cb5ac9723e9bd9e79352686e3a01245c86a19265fa1.1774190703.72a4dea1d9e08971583ace9770a29e47.2616a0994812f2d646aefd8266e490dc.992221d3b76659a598039197db2a1d37&signature=8307910e5bd71e39bdd0e24afec5fddfae63cde1e9102155a271ca5fb925efb5
+#EXTINF:-1 tvg-id="hr" tvg-name="Sport Klub 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-2.png.webp",Sport Klub 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-sport-klub-2/playlist.m3u8?token=49bd6c28f6c7438a99d0159065e24e66526c1d64aaeaa81d0fb80ac54974c395.1774190703.9a75daf330af711bd092fc843297414d.55dbc2673f804b80fc515c3ed0e229da.5997534f786ddb6731e678af27f86a44&signature=d12117b35de55ace84698130a83284fce8ede283e8ba8c30152e79670eba3b87
+#EXTINF:-1 tvg-id="hr" tvg-name="Sport Klub 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-3.png.webp",Sport Klub 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-sport-klub-3/playlist.m3u8?token=4c980b5adc9598afe5452cf79806c4694017274b12efe0f69b230ffae938d9aa.1774190703.f5ce6032fd8f7bc4788908a9df10f61b.2b263afdc87fa1719025be0a97f1c59c.79eedbc509eabff9f44da5eb7b7588b3&signature=0320223e6d750702689f4bdcc88c7910103b8ece5f0879c68e8892fbbc154cf7
+#EXTINF:-1 tvg-id="hr" tvg-name="Sport Klub 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-4.png.webp",Sport Klub 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-sport-klub-4/playlist.m3u8?token=e659771c07fc8c82ce788080933559c24c79216ebd4f839d5cf4db0e4a2a4363.1774190704.01f1d49ab8d03513f4fdb5cad3470535.ba20de3294f260dd7728b8ce59883aa1.2a87dff68467ef06229b0ca98c772a8e&signature=f6da6e34c8001a4fcf4c2432f69dfd25365b706f40489d7f3a0ba8d52d9955e2
+#EXTINF:-1 tvg-id="hr" tvg-name="Sport Klub Golf" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/croatia/sk-golf.png.webp",Sport Klub Golf
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hr-sport-klub-golf/playlist.m3u8?token=02e0b43037d73bc0ee8b151f3f6733c193f677732b0f4153a4f7b66c2c13a88d.1774190704.be18a646c96213be9e55e043d23d5d09.7c9b9f3ebb88d696c3db9a3480498238.a29a97098f033ace39b9bb5f308ba855&signature=835555c225ec2a8f293db89b735f36b8890bd7f3a586155f5db3226cb13c7f72
+#EXTINF:-1 tvg-id="hu" tvg-name="M4 Sports" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/hungary/m4-sport.svg",M4 Sports
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/hu-m4-sports/playlist.m3u8?token=44cd5491cf23993e472b7ded74091d2bac611bb97abbdf83e7faa250766513db.1774190704.070582a99710a20329cffce389569f88.93064bc2f856eb35f4a329e61301bf6b.7cfd114d7ac3e483f5dcf4cb0204a27a&signature=8f804724fcb1d7249dda2443ea595a811a196788cba4a431fda8e0a12a43ec24
+#EXTINF:-1 tvg-id="se" tvg-name="TV4 Football" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-football.png",TV4 Football
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=aa07dfe848581244059031c897c23d056fd343041b9dd2903323318847b054e6.1774190705.9e344ee25cbde340954b1a6c9ab3834f.e2ae7e651d6e68cfa5e7c3a4bf0be52d.202ed9128a53354aefdec8af793da0fa&signature=c36a7273dbbf4efb7989c02bc12d7ad5faeff083826874ecac05dbb65ba90288
+#EXTINF:-1 tvg-id="se" tvg-name="TV4 Sportkanalen" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-sportkanalen.png",TV4 Sportkanalen
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-tv4-sportkanalen/playlist.m3u8?token=013906d83fe52906dfa8d94e93a672cfe0e318035ba8d8434e9814fd16087140.1774190705.d29c3ac03eb486918d0f4d82f3946326.85c80053ab7f637613030e90745e1f11.f70f399dfdacde2b55b5e9d22206044d&signature=112c3e99e537ed2e5cdb058af2873ef93f9a60b77395cba227a4b1849872b88d
+#EXTINF:-1 tvg-id="se" tvg-name="TV4 Sport Live 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-sport-live-1.png",TV4 Sport Live 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-tv4-sport-live-1/playlist.m3u8?token=5fe1ce3ec50ad0916c64548abb550c36b65bd11e7b46a369f4068ccc00564333.1774190705.2d9797d4cbdccf5b4c929654fa370221.556702ad1fa3ee4589c7ceaa71adaad7.d55a0b92e174f92985c9530ebc4e4d41&signature=73e1871154eb0b47006a24420be1174f7dfc34ec3eff5da11d671c6a736e7cfe
+#EXTINF:-1 tvg-id="se" tvg-name="TV4 Sport Live 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-sport-live-2.png",TV4 Sport Live 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-tv4-sport-live-2/playlist.m3u8?token=aee339a62ec7d2ef8cd029e5480b423f22609ce4a8acd8ee1025f33c24783b96.1774190706.7a3d9c78f32b28891b0235ef38b20edf.f90d85c3c4162cb04cdcae3ca2decc2c.eb771b6040fceb7c81fbe1b061762518&signature=8214d24f8a7960d2fa643c4b19884ac4485caa21f47001ae3e49b85c6a779bc2
+#EXTINF:-1 tvg-id="se" tvg-name="TV4 Sport Live 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-sport-live-3.png",TV4 Sport Live 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-tv4-sport-live-3/playlist.m3u8?token=b8df9a321584150f441b7a658849cf96398eea9b5c818d84b4754cae37501eb6.1774190706.4bce0e4fef6a9ce4f9e75b86e46280fc.1500fc76716f9f1329ca45d07b9188e4.d157d9104fe893e57f98389c0370d798&signature=79b60f3687647550c78865d0ea53ec6ae0d1d21ec866cc87c28c604aa98d7b3e
+#EXTINF:-1 tvg-id="se" tvg-name="TV4 Sport Live 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/tv4-sport-live-4.png",TV4 Sport Live 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-tv4-sport-live-4/playlist.m3u8?token=8064bcb4e6bbacb7ad1fb2290b5ad3eab499f16bf509b2c2cc8cd2f508526464.1774190706.143736674751065a6464388c7e6c8a4b.598b4c41f27ac0f6be4cf121de1e2078.a9ca7d0478d6469f143c6b2b46d36dac&signature=f6709c66a1c1079fd95ef607c294055103e4dfd2ae8a7d711da31e821946864f
+#EXTINF:-1 tvg-id="se" tvg-name="V Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-1.png",V Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-v-sport-1/playlist.m3u8?token=b7a7c3f40d461a22249d14ee9a8c784503e2dcbe145712d3d9f8f50022040590.1774190706.7137cfad95163b1ef4f73f6cafbe566a.455cd3f27e1280efc7ae3c7c0cecff1d.eec391a11fdd3d0752f47d49cd3a62ae&signature=cf90bbd009317104908dae90c3aacdd2ea34eb5feb4d0838fd0ac88799e96a70
+#EXTINF:-1 tvg-id="se" tvg-name="V Sport Extra" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-extra.png",V Sport Extra
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-v-sport-extra/playlist.m3u8?token=dbe2c219b8c85bdf3e189ed9bc0365f83c8ff0730441bdfff3c2329cb4dcd3b9.1774190707.6c1d292682e891f47981527c42ef8336.a74aab3147ecbb8a5773cb974b4f85a8.9386dffa1f02801aa1eb7fc421e3697f&signature=42fab205ba3e22f3fad66d4a0e2ec0bd269d9c6744375addaf3de90cadf1b273
+#EXTINF:-1 tvg-id="se" tvg-name="V Sport Football" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-football.png",V Sport Football
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-v-sport-football/playlist.m3u8?token=1001eb0f3b4cab77489b7cba2a42525e24d24027b0939bac89a2b56fb3b2316e.1774190707.fbb117884293a5a275c3e0e6a9bb4e2a.1ac903a9a215c6448e3800284c13a7f6.ff18c0362b4ffaf00d75d8e7b177f8b6&signature=4eb9c2cb61660949317d33f56d96e9b3197197ef5f9e2441284eabcd0915243a
+#EXTINF:-1 tvg-id="se" tvg-name="V Sport Motor" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-motor.png",V Sport Motor
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-v-sport-motor/playlist.m3u8?token=a54c2b17a0019d26aaae19f5bd31cb9c4380f6d3d1870e61364a7c13526e81d5.1774190707.7c1fa0a092895f31385c515cd5832417.cecd16af607bb3e3bb885fde55f4f594.d2b624a6709b797a134f953baa41ef19&signature=5c8a6436a7c71f1afeaf742cfbc7ec908576b94eb22606778ea4570296202667
+#EXTINF:-1 tvg-id="se" tvg-name="V Sport Premium" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-premium.png",V Sport Premium
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-v-sport-premium/playlist.m3u8?token=a9147246671c97b462615c6c270e2da26ff470c6cd54e78c19b696c60da2f5a2.1774190708.9f80aac89320b1d7defb8e04c7246608.5c8052079e5b5e0dd7e6857f06161dbe.95c3d2119a1d2a23408ed5843f485285&signature=b0e3b5132d172f4836d531c97d743245c742651912ab5ec9ed2f5ddbaf12910a
+#EXTINF:-1 tvg-id="se" tvg-name="V Sport Ultra" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/sweden/v-sport-ultra.png",V Sport Ultra
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/se-v-sport-ultra/playlist.m3u8?token=a034cf6cdddfa76fd69641ec750eae408daac44797216f7d143971ed64989f45.1774190708.8f6b59af59fc1718e5328447b8ce3166.3e78d483554d538b5eaad36ef9717584.c18affc019f6e8423a2e9e96411e0d64&signature=0a9721a3b7cf0fff4a9bd247508a7d47e6d05974bbfd04070682e84dafec790c
+#EXTINF:-1 tvg-id="br" tvg-name="ESPN" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn.svg",ESPN
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/br-espn/playlist.m3u8?token=6b0c133207346ff61b8a0544c87306872d6410c11377c3df8e61027c49fbbf38.1774190708.f332b316778f58aae8f26678641bb798.b0f9adb891a6e714dba3692436d4b1bf.8eaddeae7256b2ba2344d3ed5d1a38e0&signature=b5e20c5908cedfc929ba09eeff6c793585d8b7761a355ade91a7ab5ac71f19d7
+#EXTINF:-1 tvg-id="br" tvg-name="ESPN 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/espn-2.svg",ESPN 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/br-espn-2/playlist.m3u8?token=891ef7a56b6f2544d0a88166d79008ae53afe80001eb7d6baf2f8b09fa35a528.1774190709.3230d4452e6a5c9cec68b3204665d9f0.cb3e306669c91072f6a9ddd84d19930f.86e26b275ac876f7c6c31929155beb39&signature=c71f5939d36710957710114327598bdd100b83ba1fb5546707e2d7e7397f22cb
+#EXTINF:-1 tvg-id="br" tvg-name="Premiere 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/premiere.svg",Premiere 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/br-premiere-2/playlist.m3u8?token=4efb7f76433f0b039e9fa3d1f3695172c0b83a76ab6793dd7ec68ed7c4d83227.1774190709.d6c68bd70b98e11a8bb4a25f7f3b9096.da5ee0b3ddac52dac0a008f14afaa012.9b6e27f51566b1ebb65f2ae85928d881&signature=1dde268d8a5fcb7ffecc98286fe6b7222c10919ab4dfc47723ee9c658bcda4a0
+#EXTINF:-1 tvg-id="br" tvg-name="Premiere 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/premiere.svg",Premiere 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/br-premiere-3/playlist.m3u8?token=c9dd420a3f106701d2a825d616cd5f9b253229bf97b6128653958f9ad2bc9a5a.1774190709.a4903527d276ff383010a282c47b2d42.a3be54e457e8fc9f010597b7c74fea79.28c867fa65f23e3aa8e870fb7b3c8b4b&signature=74b2bc4cfccc76eda85da170ba9bfb01ed9ccbd8d8cfdb66e102bd3812b7070c
+#EXTINF:-1 tvg-id="br" tvg-name="Premiere 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/premiere.svg",Premiere 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/br-premiere-4/playlist.m3u8?token=a4801983cc433e310ab8b1c367e76075ac0ea1e1455c9955ef2f7dc024d285cd.1774190710.44115c2da329cbf5c1328603a20d0cb2.61058e17388917dc1d7d6e504290d143.07b0685e4b1aeca731c0e7f0e313691f&signature=ac54397d2fb6d63055bbb8dbb765ddd4a1d72674cbe8b294aa27079b3a42b27d
+#EXTINF:-1 tvg-id="br" tvg-name="Premiere 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/premiere.svg",Premiere 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/br-premiere-5/playlist.m3u8?token=4741fb847bdb38a88f58ee6023095da3b5434204f07290598148031496d34606.1774190710.db6d1e09d5a5e549217697e9ccdd3116.be1fb5dc280a427b115044fe7da1e556.ec9716a29815616786514f10f47510ab&signature=b06f79aee908bb1ad545686bc4cfd40f49c333ea6960633d94c4ae0b3cf1b19b
+#EXTINF:-1 tvg-id="br" tvg-name="Premiere 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/premiere.svg",Premiere 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/br-premiere-6/playlist.m3u8?token=980a82d78a3fdf848fa4153056ce1e138854d3e40e2492326747f054e24c3eae.1774190710.1709f0eb99effe944e1ff69591af8241.8241ed03df36fcf1bf53f9a663da5a49.3c4430e82cb2606c1dcfa43cab884565&signature=bf1c9b85ef2c6ba074637ce7f1038d2fd67df812909e75e3811082c0cf255b5c
+#EXTINF:-1 tvg-id="br" tvg-name="Premiere 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/premiere.svg",Premiere 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/br-premiere-7/playlist.m3u8?token=6f048a1e586c0e13ee12546c701f3a9fd96cee5a5851b023b2f1747d59bba87f.1774190710.9fe6f15d22207fb4112a96f22d543891.e136dce1d46500e2b771ba0d7efa26a0.3924a0133f0f7f2de05a235f967b8896&signature=7c18b7e1251185204a98f8f57c3bf0d9702c7110266d1b9e0154f4899b10417c
+#EXTINF:-1 tvg-id="br" tvg-name="SporTV 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/sportv-1.png",SporTV 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=3631068ba812e4367ebe0ad22cac5aa51427cfaad5b52e876ff8f923a45f25c1.1774190711.3385f2b446a264f0c6dd652fdc0c0822.68e0a2e13956e8e9bcddc353ab4322cd.322fc82edfe7a4815b35594adb539b51&signature=df856772eb6f522ff9b22b985f48cc12e17343bc31e49610d35755244db13703
+#EXTINF:-1 tvg-id="br" tvg-name="SporTV 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/brazil/sportv-2.png",SporTV 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/br-sportv-2/playlist.m3u8?token=fe40a2c3abc4c2774599bdd67dd4ad096b2b6dc73f9b70d3bc039f0302dd9a3c.1774190711.0996a12a5e1c619b05f53d188961e8c8.ee3cb39f0cf444c9f22f5797284b3192.05a88050e0aa18560d85b8e8b40a3162&signature=438ecb7bb54ba6be029b052f1575311cccfda1c270f24a630e395c23b1250e38
+#EXTINF:-1 tvg-id="ar" tvg-name="ESPN" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn.svg",ESPN
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ar-espn/playlist.m3u8?token=0e36309c37177f39fab4bd066c28af9082d50218454310b36b603a959f90c5f4.1774190711.33987b3a007e98d9d862485c61010eab.5fdf6e840601d8692aeb420b3783ada2.cec4f3a4640a182a62a23f3a5272aee1&signature=18ae115d12958fdbd5e2dfdef500988a339e1a201eb82cc29af431cf8dd100f9
+#EXTINF:-1 tvg-id="ar" tvg-name="ESPN 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-2.svg",ESPN 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ar-espn-2/playlist.m3u8?token=9b18426bf36a4981cb9fd106f4f15cda6cad84dc23adeff374d70c928df310a6.1774190712.5389d0b0b2126005c2545b135cbaec1b.c6688b0d9c6c605ef7d6b636cce9d68a.3d1002a412f9ba406c01929dfbba7efb&signature=0ce015577d8be1e267234346ff73ab124fce91a6417e7e8bf315436687eed88e
+#EXTINF:-1 tvg-id="ar" tvg-name="ESPN 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-3.svg",ESPN 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ar-espn-3/playlist.m3u8?token=6d786fc9b28936607f31b5e40d4ce8ed002c8b308ebc3339238497331bc27565.1774190712.166abbb8c8b3d576f7bc0f61bf0be136.470ae7827572f518c930fae97b5d02d2.a1d4df12a6bd11bdd02da0a03fd3a507&signature=01e3b58c3c9b80ec334872ee71b6eae43b4ea9ea3126707bc78e6e94816874fd
+#EXTINF:-1 tvg-id="ar" tvg-name="ESPN Premium" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/espn-premium.svg",ESPN Premium
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=2992694a38f3b62a40308ffefe23fb1c1df5ea2fba5d5c8742f6abd800bd1a99.1774190712.6dfaad442f8ac18fa5cdfa3c0762c3d5.bdab0775b52f209d96072983dcebbf4a.3d54f2523fb00998d6c4946500c4fc1b&signature=b74da6c8c95df74cf045dffcaaefe86ea4244c46ef1653b38b9a6091f8ce8701
+#EXTINF:-1 tvg-id="ar" tvg-name="FOX Sports" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports.svg",FOX Sports
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=75e91b9755927ba5665cd5accdddd9366ab451e662f7b29aa3d727a32ee5770f.1774190713.d350106f7f5d807e5b3981c6cd29a68f.0f27d82a3b5061a4a14c7e6d6fc0e1c2.4e91f83f8fc96db3d808b520031c5322&signature=b60412ae005f483c7a12bf879d1fe2c690a514cfd41eb1b12b0c43373d480522
+#EXTINF:-1 tvg-id="ar" tvg-name="FOX Sports 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports-2.svg",FOX Sports 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=aa361b2c07ca71ecfde724c47b6216a282ae18a3ef3b0703f381b8d8c047cddd.1774190713.043367229f04348d2e93dee4b2fb2676.151cdc2fd71814e00020ce24ca159743.bb935b0865380e58ae42cf81898915f0&signature=28a4b7ee097e758baef91d854da0a0066ad6196ab0b2e368544ca9d000a282a8
+#EXTINF:-1 tvg-id="ar" tvg-name="FOX Sports 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/fox-sports-3.svg",FOX Sports 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=e7bcd609a79f5cac292892bc5a6e8c85bcfc3024b56ec21f45fdfcc00a48f64a.1774190713.0517aedea9f6e4cbc0e71388e4978972.faa4e6d4cba7525fc01e7591b155ac7a.af540a9ce99ca9ddef1371796b5fe8c6&signature=c89eea1091004959a5b78feaf9ef388c54a3dbae566aaa7295a0a93cb5bed9c6
+#EXTINF:-1 tvg-id="ar" tvg-name="TNT Sports" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tnt-sports.png",TNT Sports
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=0976573b6f82ca6dba7bf0b61db3e55dfeea5ade22f7d260edd1b92a44f148c6.1774190713.97a3df1766e7a3c332154cf51b8ad9dd.f7b838fa44544cc211b42534b5309b5e.747842c671dee37b1cf06f781102ec81&signature=4979cfd1ad6de1875e538ca730ca51adab8eb09534e4da4f96c2259826b2fe09
+#EXTINF:-1 tvg-id="ar" tvg-name="Tyc Sports" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/argentina/tyc-sports.svg",Tyc Sports
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ar-tyc-sports/playlist.m3u8?token=e2801ca9d5acda8e97805fd8a9adc586e6f51420d9146b46c61b18ce5808dbd6.1774190714.86f7751784c2378546ea8542385bdbbf.59f91b728189bc6235b54046548f13cf.39882ca315e5bbf05fc18a3cbcb307c5&signature=099cf7932c94b6530d455df525fd901cafa8af59a10746e174c47fbfd337efd1
+#EXTINF:-1 tvg-id="mx" tvg-name="ESPN" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn.svg",ESPN
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/mx-espn/playlist.m3u8?token=694a767694a2ae2273d1f623ba5525c855bd126bb83c00487da7363a0ba78d36.1774190714.e0ab3c0000f91ecdbd7d9307624cdd5a.8210d12ebedd7a12033e6c9654ebf319.72349cdd97575308956ecd7df342c8dc&signature=14190dbc8c7f303cb038bb9cbbf09452be6d9e370d7456e600ec26caf646a863
+#EXTINF:-1 tvg-id="mx" tvg-name="ESPN 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-2.svg",ESPN 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=d44d141edd22853f70a832af734b0a2dd41edec8a5dbdb8a2104e119838dbc09.1774190714.fb9eb1ebe109d1d4fff9b85bed403e88.b3edf9de522786acfbe3d225f38384af.3312e6bb8aa0323765e999d343885110&signature=1c71619e3003ec97082ca605d606b805e970a8b1c5309d4becd960d66dd44f94
+#EXTINF:-1 tvg-id="mx" tvg-name="ESPN 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/espn-3.svg",ESPN 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/mx-espn-3/playlist.m3u8?token=0d37021b0ddbe44ed0772f1588e78b10c0ed490493bd57f1cdec37fd414c5994.1774190715.b9d18538c5feaf512dd889167ba6377b.0bb34e2ffb02a3aba080b6f171f17c1b.a486db801db3aba3798777351a7e348c&signature=fb32417ab8d71133069fe6e2344b501087177d6ff926f5498f66c35355c07293
+#EXTINF:-1 tvg-id="mx" tvg-name="FOX Sports" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/fox-sports.svg",FOX Sports
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/mx-fox-sports/playlist.m3u8?token=e05d49330e4f078b7877e086900d0d544ac4c4e29a2bbda1ac053dff74000ce6.1774190715.4b711bbac6a0b123a1bcff28f58e9d07.ab8c9bcec646451bd7d4472d9f869bbd.b8b01b9a71aa3e0181257fd0dcd4c429&signature=52cd6c65503fb6eb47cec828d3ac01e4c7275e20dc0cebda18fd73fe7306a2e7
+#EXTINF:-1 tvg-id="mx" tvg-name="FOX Sports 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/fox-sports-2.svg",FOX Sports 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/mx-fox-sports-2/playlist.m3u8?token=58659c9a5c9278fca8caf6e703a2ed0dfd7cec71807766735e4c1943da241dc3.1774190715.a5637abd9fd7288f28e968edc638c246.8a5476de009a14a1b9b6045ff76a33d6.fb67032a0176dae521315b049fd3a5a1&signature=fa32201bb8d12918600182104e3b3a49056a6bb3def23c17dd7d67c75ae30e24
+#EXTINF:-1 tvg-id="mx" tvg-name="FOX Sports 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/fox-sports-3.svg",FOX Sports 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/mx-fox-sports-3/playlist.m3u8?token=2e651abd0f7d5ea9a32cf5f6a7092abc59ffa8eeddd9e4453e26f8183c3226dc.1774190715.1c6ffae92c60ab16f6cd7dd6f0d54ebc.f1a772cf0321e49f6a2c15d89c7cce41.b2a8224a4753abe2aacfc6ac2876d7e3&signature=986dc029fd2c86c2713271cd0fd36419911e4854bc052831e056427c678121c4
+#EXTINF:-1 tvg-id="mx" tvg-name="FOX Sports Premium" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/mexico/fox-sports-premium.webp",FOX Sports Premium
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/mx-fox-sports-premium/playlist.m3u8?token=177e05a57840779c1cac544d13b64ffc6afa9f78791a48b15ecaf7df53e28745.1774190716.7a21e261e9e1664006fdbdbae690efdd.fa29472811564a9ee72b1d1a498bd426.a99d2887693cf57fac4a14b050dcd743&signature=101ba1f1b3de38fccf5d3719851d66cbd0c4e67114c6576932a71094c0cb570c
+#EXTINF:-1 tvg-id="ro" tvg-name="Digi Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-1.png",Digi Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=698491aa4673702ed24cfa9ee4ab68c9235b1477a7415c7026fcb0ecd1a320cf.1774190716.9301fb5e35c1b7324ece830790b29564.c500b6fcd0b86ebd9793ef81e11f096f.b724ac399de65517d1c028b44ed58447&signature=96016003da1b3655eeafb7dfbebc2509221f15c59b0e326975b59e477e6499b9
+#EXTINF:-1 tvg-id="ro" tvg-name="Digi Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-2.png",Digi Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=2aa9780106d0b70badf6f5bc5d7acd3bd56fe21925279675dc3e6b3be8072c7e.1774190716.6f7ef48c8f2403d6c54ac914d0c1efc4.6a0d891148f71662978ba0ac1ad9589f.e8fec8350b91f770cc62a40b1b16645f&signature=cded1eb00af620c0343b13117da6ef37eb29b5c45200896559154adfe82772e8
+#EXTINF:-1 tvg-id="ro" tvg-name="Digi Sport 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-3.png",Digi Sport 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ro-digi-sport-3/playlist.m3u8?token=0ed260a390ceed13561e092021c0810b67e4039865b06c41da1f909652f83a67.1774190717.2b5234092b0297aa2b9f309d3c5f67b9.1f6a7a75ddf7faafd24c00dcb5dafb6d.81a038e344a5e6cab5769c0c45aae414&signature=5131c00ad2cd7a64b9281949c39a43c80ec95bf49fc715e2a0cdabf6f55fc5b7
+#EXTINF:-1 tvg-id="ro" tvg-name="Digi Sport 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/digi-sport-4.png",Digi Sport 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=47312b4df3160cf95ba6d24d07f0d68451424989f0a2b430758b00262933a811.1774190717.42d3c626ccc4b54d94aa6781c349a860.98942151a1a5402fe9f2705ec0d5deb6.c6f1b9c6cfbdcc4f5635193959c361ca&signature=6700d39507a1b8880c463f289a904dd33319ba214b084a65f855f6dc25479b05
+#EXTINF:-1 tvg-id="ro" tvg-name="Prima Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-1.svg",Prima Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=a7f56f0b92195d6f5feaa52e957b8b59494e9a1bb4e031ba47fa834162a6cc4b.1774190717.bcc28a6ee85f1936f19bcd995c49183e.27ada956bc86c26ba28f2a35141f7d3f.8a608bc6589a042509ac26fbf3cd1f1f&signature=2193115e7792c04e3d79a1bf5fa57688c6bd2c50f85db46d4dc282690f695ee0
+#EXTINF:-1 tvg-id="ro" tvg-name="Prima Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-2.svg",Prima Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=317083b7e23f8a143ff25fa8203de50aa975f0b262667c2d4250f5ce0759d8c9.1774190718.29ee5af831f5cc738414883ca2b966d5.0d0dddfaebe8b35ca714927522329556.25167c43c23616ec913baf9cba015a59&signature=4e4dcf17858492c32d0fa14ba50ec6b072239dc86a70a00cfa23e8cd59928e42
+#EXTINF:-1 tvg-id="ro" tvg-name="Prima Sport 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-3.svg",Prima Sport 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=27dd913a7c4e7d8719406e91edf0649ccd57de04eb427fda0045f6f7ba5afc47.1774190718.d8cfa781d3db14b72bfbb69c19311f5a.8cc3d6c40749d7dad278f6973911fcf6.d12051ca765d92a2797aef8c062ab6eb&signature=a1700c567fa56022caaa3a7a0f5901501ba45b9c556bfcf581f68cb12d07daaa
+#EXTINF:-1 tvg-id="ro" tvg-name="Prima Sport 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/romania/prima-sport-4.svg",Prima Sport 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ro-prima-sport-4/playlist.m3u8?token=ef23f168c6c730c6251506b371db7674c99aea76aeaa811e74cea00515fc4e1f.1774190718.d15e849b32c0c283058ca73d9f7772be.92d729ecf1b0a25b1095541ff8cfb882.11f2670e962cb2121475a9e6a0c72d77&signature=ff73c08b9d7e4299646dafb3c105b96acd0df98c24b513d63e59619053fd0731
+#EXTINF:-1 tvg-id="tr" tvg-name="beIN SPORTS 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp",beIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/tr-bein-sports-1/playlist.m3u8?token=15868b598b43080cc44a12488f9bc0af8aa59e4dd48edc7d81c2ffcd7255b1a4.1774190719.c2b038723d6af530c0f91b27627e296a.47b8b426c7aeb1caf700dd8347b1fb3b.9010a9e72e00efcd6fcf43226a9103ff&signature=3ca0b6d12a84320cefa5e45d0f822b261158b9d68cfc1cce3e992a6c5342d0c3
+#EXTINF:-1 tvg-id="tr" tvg-name="beIN SPORTS 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-2.svg",beIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/tr-bein-sports-2/playlist.m3u8?token=fb92e9b03089a8a532b0a495b00aa560175b0ee35e693ba33c031fee052cba5c.1774190719.89d9f0daa7255763b3dd821fe1e458d9.a25c62ba3e49c9cf3e5f0a9e86b52506.97e025fc656bd73e3030c040f2159055&signature=e4b02a13553764bc70ae1170adeb41fa0c732a55093e1e7f3a353aebb930edb2
+#EXTINF:-1 tvg-id="tr" tvg-name="beIN SPORTS 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-3.webp",beIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/tr-bein-sports-3/playlist.m3u8?token=cc5cdc2c0ee6a637a052b335ad3572e8685ea5d3854a648a6d4a030547d9f5c0.1774190719.567ebddb42f080c9e5534cd8debaaebc.66a72199438ea5871c771e5f5324ad0d.f7e5d99478a266929a24d4ce2105a451&signature=2af1c53e18270debddcd56bf22114b2afda483f0d137e577527e64468399b2b1
+#EXTINF:-1 tvg-id="tr" tvg-name="beIN SPORTS 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/turkey/bein-sports-4.svg",beIN SPORTS 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/tr-bein-sports-4/playlist.m3u8?token=9aae697b4d880e4065b6f5cdd936f498b0badc11956998e13ded4c3f0bfeee8d.1774190719.2cb74189c45798ab212b6dd015dcef82.df6382e466398699234b8010331db700.2e68e9302668e2b71bcb7d882ccbc0e8&signature=c41ac51191da1c5c05d1c4544404b18a74ce449041ef1114896076fe40534ab2
+#EXTINF:-1 tvg-id="il" tvg-name="Sport 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-1.png",Sport 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=6f8691b55ee5c840ed00ec3aaa6a3cf8c5b1c2c340d7ce3be577699007b3485a.1774190720.2a42c7ee22507ef1bc3151172488cc81.edef566f18f20cb225a2da4bec4cb954.4acdfae2eda65795d2b1be83a7105b3a&signature=bbb7e9265a9e167d95960b292ca66738cc07e4de64cd2e4f878cf8fc458df1be
+#EXTINF:-1 tvg-id="il" tvg-name="Sport 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-2.png",Sport 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=6202c81a8455c69ba44624190163c249d4ad4875e274f4394bf7f45409d86c04.1774190720.1453adbc284d643298d9219c1181791a.73bf949458f6a66a252874345a933f86.e176df59ace692d9623273b9181736d2&signature=a04407dda646e2801460134600647690271e600bcfc4b60440c8cbf65bfb7162
+#EXTINF:-1 tvg-id="il" tvg-name="Sport 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-3.png",Sport 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=31db7f22b1e08c93a0dc92d75cf52f982352bd384d9c63c038a1c9765925e198.1774190720.d4dec86c20babb1af677a5564dcaa602.9446ab8f62f342a9ed7b265652e5779a.50ecfdc53f9944e57758374f61ccba07&signature=0fe7f5f8fe5102c7540a7721bb9663b3101676723d19f27a2eb837a41c8de365
+#EXTINF:-1 tvg-id="il" tvg-name="Sport 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-4.png",Sport 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=0e84a0b5cb8cb2a7a895e6bdbdf3b98bba8e66c005e9232e9ab1bb2574b420be.1774190721.cdb26a1eba1b8c4d461d6cb797c81e6d.e0cac7673af3cda3811aa08ad964b557.1885b8fa9e465273ff53830f7e0d71e1&signature=16c760298558fc4da8c5210b5e8e9ef754d4ac916cf362fbe187d86893917605
+#EXTINF:-1 tvg-id="il" tvg-name="Sport 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5.webp",Sport 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=ec0b1f50c1dcac9067d3add60aec639eed1697e930744c2554b05fcce6999254.1774190721.61a918f5c2f88b39cdd4e6d8c6d67e19.b9f0451519ac0cd40fca6c40ae5f155f.b9f08a6a769b9bc7766db9cb67984128&signature=6991cb12906fc4bb1daa2157e7b9242ab9d79d66a82ee560b8d239a45d932acd
+#EXTINF:-1 tvg-id="il" tvg-name="Sport 5 Gold" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-gold.png",Sport 5 Gold
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/il-sport-5-gold/playlist.m3u8?token=ebf68f53ff3c1b3e0693cfe70823b032e7ac9a7b75bc2755b3bda8fcfd14ac78.1774190721.3a6bfac78c35aed8c4ae9c3ca3d1c10a.71763291f3ad789e42c2f64c3906a187.f67c61203c26c28f37bf0831b5b969df&signature=64e61da21c8cc8553272502286b5b4cef2238b078046123fe548d9b2af62e03a
+#EXTINF:-1 tvg-id="il" tvg-name="Sport 5 Live" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-live.png",Sport 5 Live
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=26d4aa46cdc7e74987ae5e6a9c68ae3ae207e9141509537f5e2d297f437870d4.1774190722.25cc590ae6cb789ffb9e25586e15b159.7581511fbf95ce03d18e849a7441dd91.288dc490a73eaa10d658fabda3446e5b&signature=1c9978e24504526e2c9e9ed106cfc9891a1ee9c1b7d610baa18382c65e485448
+#EXTINF:-1 tvg-id="il" tvg-name="Sport 5 Plus" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-plus.png",Sport 5 Plus
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/il-sport-5-plus/playlist.m3u8?token=af897616d2f1656e5b6f0bc3257bd900927b0ece546e437b533db577509bfa5a.1774190722.82e62d3e00a51e9cde2f42cb814f3d3d.d26f6be8af484787074a262c91b033bf.8a1e232ae399823afd9c7950c6cc926c&signature=81f19610764f04ed39b79b7d632152608ecff2ce43e0219a3aef7cee4c7c6dc7
+#EXTINF:-1 tvg-id="il" tvg-name="Sport 5 Stars" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/israel/sport-5-stars.png",Sport 5 Stars
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/il-sport-5-stars/playlist.m3u8?token=bb8ecaf7047fedb72b08868f3ba8f8b63bfab97484d7b213d0b2165c1e64c31b.1774190722.f4513adfe1918c01fd7a37ecbcc481e3.9f019d184f73c34a863ae82c263835a1.d0334c6221c2646aff47ef0b390be408&signature=ee0ea815a8a84c32c4b44bd05e024716457ee22ee13892f1a1883ff7a4a5ee53
+#EXTINF:-1 tvg-id="eg" tvg-name="ON Time Sports" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/egypt/on-time-sport.webp",ON Time Sports
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/eg-on-time-sports/playlist.m3u8?token=6edfe3de52a8b49c90d8734407c694e0f92e33232513f542dad9d86023fcaa5c.1774190723.2e6382bf00c12227dc04ab5bbc441040.72b19b9de5b6974e728858a6ef4a86d6.c67e8989d604c6cffc46540cfd720352&signature=41d4b7a0db64f4738290baf36665f925e12d70c7eeba0993c93a52f5742af587
+#EXTINF:-1 tvg-id="ae" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/dubai/abu-dhabi-sports.png",Abu Dhabi Sports 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ae-abu-dhabi-sports-1/playlist.m3u8?token=a3fccab0ee742c9097b3a85ea6a4650fd03f674cfd0f5a5fe2de4024d48acdb4.1774190723.7cee223a971b69e1fb2fff66199d944f.bd88b25d420580e498c8e93834fdb290.c85f83d0c9e5809b5f60b44cc831235b&signature=554e8edaaf9c521af1e3e8f3d258157781a7782d03776707460a34b33b79d369
+#EXTINF:-1 tvg-id="ae" tvg-name="Starzplay Sports 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/dubai/starzplay-sports-1.svg",Starzplay Sports 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ae-starzplay-sports-1/playlist.m3u8?token=2590dbd39e6516ae0dd1a3d9f2cf6a8487c6db98ef8f51a40b1d615ba627cf03.1774190723.c882ea9b63f6140b87d379026a8eafdc.3e2911a48e80299e291965aa77e45049.055f6d4ddad9e107276fb09fe8de1739&signature=0ba3cc6c2f03ae56c659d10ff6c5b0a2bd84e81f0de489e610816a00bd454c7f
+#EXTINF:-1 tvg-id="ae" tvg-name="Starzplay Sports 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/dubai/starzplay-sports-2.svg",Starzplay Sports 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/ae-starzplay-sports-2/playlist.m3u8?token=516408cf85b302895e238b1a3a571f398378bfd504be54482d43967b4a35d336.1774190724.9b069e4e8cc149069e3fe15cdf5da5d4.9b1902e59270f656af5eb7b5bdb620bd.5ac274ac5ddb52dab056a1eae71cc7b1&signature=c62c1d87d2d2ae8b6c97851a0046e38c556d17a37d07f3797fe40e3dd887c817
+#EXTINF:-1 tvg-id="sa" tvg-name="beIN SPORTS 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-1.webp",beIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=ddf57bc6ac09384797962e39ff871e06d3452f42082201419d42b289ba4e72c1.1774190724.54e3b391695dc69bfe7226d3962bb2fa.5aa8b978106626b717f80708d3447349.336a9e6d746c69f6c53a8a762acbdaba&signature=73b398b4ab61456f08fbf2bf280b5bc3c99e4885c63985447e4a63dca599fb84
+#EXTINF:-1 tvg-id="sa" tvg-name="beIN SPORTS 2" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-2.svg",beIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=5060d2c73a6195d741bc17604243db9f8b7488b9f9201829caac8a98a31a8cae.1774190724.8c70acb062d3336013f50c63d0e3d919.a80c8163b227c36c45d257dda3bfe367.2a2a2a41e3ce3e24095a60c307453696&signature=e455524dcefdd8bbb2fc627b353893cee697fe732eb5e95f083ce4441e3fa848
+#EXTINF:-1 tvg-id="sa" tvg-name="beIN SPORTS 3" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-3.webp",beIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=85fca6386c63b1b815771fdcbd4b9fb1fb436b340ce02dadf3a501aeabc2eee2.1774190725.7b55213c9154f4bafe83ab86973b2824.6a66eb8b2e27706ef40b65d4d3750394.3212a97f53ebf287c448e339fc2c9884&signature=e17c8db5801788b1d383267cd4fd0303bcc49f6edcd137d72f4e54b58a913f30
+#EXTINF:-1 tvg-id="sa" tvg-name="beIN SPORTS 4" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.svg",beIN SPORTS 4
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/sa-bein-sports-4/playlist.m3u8?token=5729b025fd6ff0454a3af7077537ec60903b00683f531663bed999b94e95e127.1774190725.34c4bd950f6d58c8e6660857d71d7af0.37f6ef1f850e2eec0e3626b3f45158a8.2b90af0a256beee0505431a391cb385c&signature=b3544f784ed3b1a928c1a2b659e48e07b691075c1cb564b9d59bd19bd8630221
+#EXTINF:-1 tvg-id="sa" tvg-name="beIN SPORTS 5" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-5.svg",beIN SPORTS 5
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/sa-bein-sports-5/playlist.m3u8?token=624590bbb2a1b1ecfba07f985309e3596308501cba36d131bf029781230189e8.1774190725.181a15d65bc50d06be05b9b05ec6105b.5727fcd877a30877a716ba750d046405.6cf9013838e5928f63058d57bb5891c9&signature=c5bbf876a67b6cebc811f690f10c008fedd306824f242a616f4e88f1fb649f54
+#EXTINF:-1 tvg-id="sa" tvg-name="beIN SPORTS 6" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-6.svg",beIN SPORTS 6
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/sa-bein-sports-6/playlist.m3u8?token=6b7d5e8a5ac8b7e5f1dbb3f8b4ce1d7d448ad38f00be0dc4b06085bb828e00cd.1774190725.f0baf85fcd23304d244c5a2fc116b96e.2ad1814d34982e74a323be7cc18a272c.7c63350ccdd232d00973f1f52df88e70&signature=aa99baccc24a673426cc1051a5b52209ad5538fd2437305da20da28396dfc95a
+#EXTINF:-1 tvg-id="sa" tvg-name="beIN SPORTS 7" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-7.svg",beIN SPORTS 7
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/sa-bein-sports-7/playlist.m3u8?token=3939aa4e6718ad43843e10702797c658d1b44e67a9cbb8840fea10f6c2a527a8.1774190726.40a0f190522cdfd94ec26d616891717a.99592eb209c97ed41a68cc84c161540e.bfc4e12a43933f125f835aa691d3aa36&signature=e3ebee2e4c27df5656d137e0bf0a4eb5aade1e2423c7f73f135fd56b98d7cb80
+#EXTINF:-1 tvg-id="sa" tvg-name="beIN SPORTS 8" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.svg",beIN SPORTS 8
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/sa-bein-sports-8/playlist.m3u8?token=38f293511994720078d8d0e29d5e1bfc6a210c70abb7b6c35aeea7e3c3e95552.1774190726.986300c060b7cbf21576849662c48dfc.1e67700d8ea696e0d45ffd7419f0e458.a6f3498a65bc69844effa20d2f2f0dcd&signature=cc6fd22c9aa73e44e634402bd72aa111d728b0cab1662d7aa31d28f7a9be7046
+#EXTINF:-1 tvg-id="sa" tvg-name="beIN SPORTS 9" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-9.svg",beIN SPORTS 9
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/sa-bein-sports-9/playlist.m3u8?token=cc1f56a9235889ac719ead033de38f189a4bc7fbd99bc18179c2f4c448b1713a.1774190726.af379b6ddfa6c3536196b0bce6a1be23.9100b4e66042d9d292348ab80a850539.dc34ee341938958555c3e2c124502297&signature=dd80df4ad22128bd3836f85e6b2fc730275885df7783e754613f7f4a34d4f5a8
+#EXTINF:-1 tvg-id="in" tvg-name="SONY TEN 1" tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/india/sony-sports-ten-1.webp",SONY TEN 1
+#EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
+https://edge.cdn-live.ru/secure/api/v1/in-sony-ten-1/playlist.m3u8?token=2dc202553cfe00039605485c40f863f6dc26cf2d731e8cf1f06b6d11ba5bdc94.1774190727.d443f983a91452adbe1481a1bd9392e0.06fbebb5e0fc1a39c8dc23a90c19dcab.c10f394ab5c2b1c3740abd331681890c&signature=57a5777d8613dff985c5c25be8d4ca4862fe46aa84fda46e9d80904e6a1d3873
